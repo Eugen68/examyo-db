@@ -1,0 +1,1855 @@
+{
+ "slug": "operare-clasa-4",
+ "source_file": "db_op4",
+ "category": "operare",
+ "classes": [
+  "IV"
+ ],
+ "title": "Întrebări operare clasa IV v.3.32",
+ "version": "3.32",
+ "curriculum": "prog_CEPT_Entry_op",
+ "declared_count": 63,
+ "count": 63,
+ "with_explanation": 60,
+ "questions": [
+  {
+   "id": "operare-clasa-4/0",
+   "number": 0,
+   "code": "01A122",
+   "question": "La chemarea ta, îţi răspund patru radioamatori: YO3AAC, LZ5JZ, HA5KXX, 3W1SSB. Cui răspunzi prima dată, în cazul în care vrei să lucrezi cu toţi?",
+   "image": null,
+   "answers": [
+    "staţiei 3W, fiind DX(Vietnam)",
+    "staţiei care se aude cel mai slab, fiindcă la o modificare de propagare, semnalul ei se poate pierde",
+    "staţiei YO, are prioritate",
+    "staţiei care a chemat cel mai insistent"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Braşov, 2005",
+   "explanation": "Un bun operator încearcă să lucreze toate staţiile: staţia mai slabă prima, fiindcă este QRP(putere f. mică la emisie, sub 5W în US) sau foarte îndepărtată. în cazul unei fluctuaţii de propagare, staţia slabă se pierde prima.\nDupă aceea staţia DX e mai apetisantă - asta depinde de operator, dacă are sau nu confirmată deja entitatea 3W\nO staţie care cheamă foarte, foarte insistent de obicei sfârşeşte prin a irita operatorul şi probabil va fi rejectată.\nstaţia YO - hai să fim şi noi patrioţi(ţine de ham-spirit), că şi alţii sunt! Nu trebuie să lăsăm staţiile YO să ne strige şi să nu răspundem.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007, rev. 2021",
+   "html": {
+    "question": "La chemarea ta, îţi răspund patru radioamatori: YO3AAC, LZ5JZ, HA5KXX, 3W1SSB. Cui răspunzi prima dată, în cazul în care vrei să lucrezi cu toţi?",
+    "answers": [
+     "staţiei 3W, fiind DX(Vietnam)",
+     "staţiei care se aude cel mai slab, fiindcă la o modificare de propagare, semnalul ei se poate pierde",
+     "staţiei YO, are prioritate",
+     "staţiei care a chemat cel mai insistent"
+    ],
+    "explanation": "Un bun operator încearcă să lucreze toate staţiile: staţia mai slabă prima, fiindcă este QRP(putere f. mică la emisie, sub 5W în US) sau foarte îndepărtată. în cazul unei fluctuaţii de propagare, staţia slabă se pierde prima.<br>După aceea staţia DX e mai apetisantă - asta depinde de operator, dacă are sau nu confirmată deja entitatea 3W<br>O staţie care cheamă foarte, foarte insistent de obicei sfârşeşte prin a irita operatorul şi probabil va fi rejectată.<br>staţia YO - hai să fim şi noi patrioţi(ţine de ham-spirit), că şi alţii sunt! Nu trebuie să lăsăm staţiile YO să ne strige şi să nu răspundem."
+   }
+  },
+  {
+   "id": "operare-clasa-4/1",
+   "number": 1,
+   "code": "01A161",
+   "question": "Ce semnifică următorul cod Q: QRL?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "sunteţi ocupat?",
+    "să micşorez puterea?",
+    "cine mă cheamă?"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRL?",
+    "answers": [
+     "sunteţi interferat?",
+     "sunteţi ocupat?",
+     "să micşorez puterea?",
+     "cine mă cheamă?"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/2",
+   "number": 2,
+   "code": "02A161",
+   "question": "Ce semnifică următorul cod Q: QRZ?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "sunteţi ocupat?",
+    "să transmit mai lent?",
+    "cine mă cheamă?"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRZ?",
+    "answers": [
+     "sunteţi interferat?",
+     "sunteţi ocupat?",
+     "să transmit mai lent?",
+     "cine mă cheamă?"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/3",
+   "number": 3,
+   "code": "03A161",
+   "question": "Ce semnifică următorul cod Q: QRS?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "să micşorez puterea?",
+    "să transmit mai lent?",
+    "să încetez transmisia?"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Ca mnemonică: Q R 'Slower' - mai lent\nCodul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "owene, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRS?",
+    "answers": [
+     "sunteţi interferat?",
+     "să micşorez puterea?",
+     "să transmit mai lent?",
+     "să încetez transmisia?"
+    ],
+    "explanation": "Ca mnemonică: Q R 'Slower' - mai lent<br>Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/4",
+   "number": 4,
+   "code": "04A161",
+   "question": "Ce semnifică următorul cod Q: QRT?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "să încetez transmisia?",
+    "să transmit mai lent?",
+    "cine mă cheamă?"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRT?",
+    "answers": [
+     "sunteţi interferat?",
+     "să încetez transmisia?",
+     "să transmit mai lent?",
+     "cine mă cheamă?"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/5",
+   "number": 5,
+   "code": "05A161",
+   "question": "Ce semnifică următorul cod Q: QSB?",
+   "image": null,
+   "answers": [
+    "tăria semnalelor mele variază?",
+    "să încetez transmisia?",
+    "să trec pe altă frecvenţă?",
+    "confirm recepţia"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QSB?",
+    "answers": [
+     "tăria semnalelor mele variază?",
+     "să încetez transmisia?",
+     "să trec pe altă frecvenţă?",
+     "confirm recepţia"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/6",
+   "number": 6,
+   "code": "06A161",
+   "question": "Ce semnifică următorul cod Q: QSY?",
+   "image": null,
+   "answers": [
+    "tăria semnalelor mele variază?",
+    "să încetez transmisia?",
+    "să trec pe altă frecvenţă?",
+    "confirm recepţia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QSY?",
+    "answers": [
+     "tăria semnalelor mele variază?",
+     "să încetez transmisia?",
+     "să trec pe altă frecvenţă?",
+     "confirm recepţia"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/7",
+   "number": 7,
+   "code": "07A161",
+   "question": "Ce semnifică următorul cod Q: QSL?",
+   "image": null,
+   "answers": [
+    "tăria semnalelor mele variază?",
+    "să încetez transmisia?",
+    "să trec pe altă frecvenţă?",
+    "confirm recepţia"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QSL?",
+    "answers": [
+     "tăria semnalelor mele variază?",
+     "să încetez transmisia?",
+     "să trec pe altă frecvenţă?",
+     "confirm recepţia"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/8",
+   "number": 8,
+   "code": "01A123",
+   "question": "Ce este codul RST?",
+   "image": null,
+   "answers": [
+    "codul de prescurtări",
+    "cod pentru raportarea calităţii recepţiei",
+    "cod pentru raportarea intermodulaţiilor",
+    "cod pentru raportarea puterii de emisie în telegrafie"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Readability - Strength - Tone\nVezi mai multe la Codul Q: [link] (http://examyo.scienceontheweb.net/x5_2_rst.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce este codul RST?",
+    "answers": [
+     "codul de prescurtări",
+     "cod pentru raportarea calităţii recepţiei",
+     "cod pentru raportarea intermodulaţiilor",
+     "cod pentru raportarea puterii de emisie în telegrafie"
+    ],
+    "explanation": "Readability - Strength - Tone<br>Vezi mai multe la Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_2_rst.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/9",
+   "number": 9,
+   "code": "02A123",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/P?",
+   "image": null,
+   "answers": [
+    "yo6gzi este în Paraguay",
+    "yo6gzi este în Portugalia",
+    "yo6gzi este în portabil",
+    "yo6gzi este în Panama"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/P?",
+    "answers": [
+     "yo6gzi este în Paraguay",
+     "yo6gzi este în Portugalia",
+     "yo6gzi este în portabil",
+     "yo6gzi este în Panama"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-4/10",
+   "number": 10,
+   "code": "03A123",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/M?",
+   "image": null,
+   "answers": [
+    "yo6gzi este în Montreal",
+    "yo6gzi este mobil",
+    "yo6gzi este în Monaco",
+    "yo6gzi este în Mexic"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/M?",
+    "answers": [
+     "yo6gzi este în Montreal",
+     "yo6gzi este mobil",
+     "yo6gzi este în Monaco",
+     "yo6gzi este în Mexic"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-4/11",
+   "number": 11,
+   "code": "04A123",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/MM?",
+   "image": null,
+   "answers": [
+    "yo6gzi este mobil în Montreal",
+    "yo6gzi este mobil în Monaco",
+    "yo6gzi este mobil în Mexic",
+    "yo6gzi este maritim mobil"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/MM?",
+    "answers": [
+     "yo6gzi este mobil în Montreal",
+     "yo6gzi este mobil în Monaco",
+     "yo6gzi este mobil în Mexic",
+     "yo6gzi este maritim mobil"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-4/12",
+   "number": 12,
+   "code": "05A123",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/AM?",
+   "image": null,
+   "answers": [
+    "yo6gzi emite cu modulaţie de amplitudine (AM)",
+    "yo6gzi emite dintr-un vehicul aerian Aerian Mobil(AM)",
+    "yo6gzi emite din Mauriţius",
+    "yo6gzi este primul radioamator din localitate - Alpha-Mike"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO5OWN, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/AM?",
+    "answers": [
+     "yo6gzi emite cu modulaţie de amplitudine (AM)",
+     "yo6gzi emite dintr-un vehicul aerian  Aerian Mobil(AM)",
+     "yo6gzi emite din Mauriţius",
+     "yo6gzi este primul radioamator din localitate - Alpha-Mike"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-4/13",
+   "number": 13,
+   "code": "17A123",
+   "question": "Ce ţară reprezintă prefixul F?",
+   "image": null,
+   "answers": [
+    "Farity",
+    "Franţa",
+    "Finlanda",
+    "Filipine"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul F?",
+    "answers": [
+     "Farity",
+     "Franţa",
+     "Finlanda",
+     "Filipine"
+    ],
+    "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)"
+   }
+  },
+  {
+   "id": "operare-clasa-4/14",
+   "number": 14,
+   "code": "18A123",
+   "question": "Ce ţară reprezintă prefixul OE?",
+   "image": null,
+   "answers": [
+    "Emiratele Arabe",
+    "Olanda",
+    "Austria",
+    "Italia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "mnemonică: Austria în germana este Österreich, şi se mai scrie şi Oesterreich. OE",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul OE?",
+    "answers": [
+     "Emiratele Arabe",
+     "Olanda",
+     "Austria",
+     "Italia"
+    ],
+    "explanation": "mnemonică: Austria în germana este &Ouml;sterreich, şi se mai scrie şi Oesterreich. OE"
+   }
+  },
+  {
+   "id": "operare-clasa-4/15",
+   "number": 15,
+   "code": "19A123",
+   "question": "Ce ţară reprezintă prefixul G?",
+   "image": null,
+   "answers": [
+    "Germania",
+    "Grecia",
+    "Anglia",
+    "Italia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)\nmnemonică: Great Britain - G",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul G?",
+    "answers": [
+     "Germania",
+     "Grecia",
+     "Anglia",
+     "Italia"
+    ],
+    "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)<br>mnemonică: Great Britain - G"
+   }
+  },
+  {
+   "id": "operare-clasa-4/16",
+   "number": 16,
+   "code": "20A123",
+   "question": "Ce ţară reprezintă prefixul HA?",
+   "image": null,
+   "answers": [
+    "Germania",
+    "Grecia",
+    "Anglia",
+    "Ungaria"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul HA?",
+    "answers": [
+     "Germania",
+     "Grecia",
+     "Anglia",
+     "Ungaria"
+    ],
+    "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria"
+   }
+  },
+  {
+   "id": "operare-clasa-4/17",
+   "number": 17,
+   "code": "21A123",
+   "question": "Ce ţară reprezintă prefixul EA?",
+   "image": null,
+   "answers": [
+    "Germania",
+    "Spania",
+    "Anglia",
+    "Elveţia"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "ESP.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul EA?",
+    "answers": [
+     "Germania",
+     "Spania",
+     "Anglia",
+     "Elveţia"
+    ],
+    "explanation": "ESP."
+   }
+  },
+  {
+   "id": "operare-clasa-4/18",
+   "number": 18,
+   "code": "22A123",
+   "question": "Ce ţară reprezintă prefixul LZ?",
+   "image": null,
+   "answers": [
+    "Grecia",
+    "Lagos",
+    "Bulgaria",
+    "Polonia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO5OWN, Săcele, 2004",
+   "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul LZ?",
+    "answers": [
+     "Grecia",
+     "Lagos",
+     "Bulgaria",
+     "Polonia"
+    ],
+    "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria"
+   }
+  },
+  {
+   "id": "operare-clasa-4/19",
+   "number": 19,
+   "code": "08A161",
+   "question": "Ce semnifică codul 73?",
+   "image": null,
+   "answers": [
+    "salutări",
+    "sărutări",
+    "perturbaţii atmosferice",
+    "scuze"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Vezi mai multe la prescurtări uzuale: [link] (http://examyo.scienceontheweb.net/x5_7_presc.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică codul 73?",
+    "answers": [
+     "salutări",
+     "sărutări",
+     "perturbaţii atmosferice",
+     "scuze"
+    ],
+    "explanation": "Vezi mai multe la prescurtări uzuale: <a href=\"http://examyo.scienceontheweb.net/x5_7_presc.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/20",
+   "number": 20,
+   "code": "09A161",
+   "question": "Ce semnifică codul 88?",
+   "image": null,
+   "answers": [
+    "salutări",
+    "sărutări",
+    "perturbaţii atmosferice",
+    "scuze"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Vezi mai multe la prescurtări uzuale: [link] (http://examyo.scienceontheweb.net/x5_7_presc.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică codul 88?",
+    "answers": [
+     "salutări",
+     "sărutări",
+     "perturbaţii atmosferice",
+     "scuze"
+    ],
+    "explanation": "Vezi mai multe la prescurtări uzuale: <a href=\"http://examyo.scienceontheweb.net/x5_7_presc.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/21",
+   "number": 21,
+   "code": "10A161",
+   "question": "Ce semnifică codul yl?",
+   "image": null,
+   "answers": [
+    "young lady - radioamatoare",
+    "sărutări",
+    "perturbaţii atmosferice",
+    "scuze"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Vezi mai multe la prescurtări uzuale: [link] (http://examyo.scienceontheweb.net/x5_7_presc.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică codul yl?",
+    "answers": [
+     "young lady - radioamatoare",
+     "sărutări",
+     "perturbaţii atmosferice",
+     "scuze"
+    ],
+    "explanation": "Vezi mai multe la prescurtări uzuale: <a href=\"http://examyo.scienceontheweb.net/x5_7_presc.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/22",
+   "number": 22,
+   "code": "11A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'L'?",
+   "image": null,
+   "answers": [
+    "London",
+    "Luis",
+    "Longitude",
+    "Lima"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'L'?",
+    "answers": [
+     "London",
+     "Luis",
+     "Longitude",
+     "Lima"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/23",
+   "number": 23,
+   "code": "12A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'M'?",
+   "image": null,
+   "answers": [
+    "Mike",
+    "Mexico",
+    "Milano",
+    "Marco"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'M'?",
+    "answers": [
+     "Mike",
+     "Mexico",
+     "Milano",
+     "Marco"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/24",
+   "number": 24,
+   "code": "13A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'N'?",
+   "image": null,
+   "answers": [
+    "Norway",
+    "November",
+    "Nancy",
+    "Null"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'N'?",
+    "answers": [
+     "Norway",
+     "November",
+     "Nancy",
+     "Null"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/25",
+   "number": 25,
+   "code": "14A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'O'?",
+   "image": null,
+   "answers": [
+    "Ontario",
+    "Oregon",
+    "Olanda",
+    "Oscar"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'O'?",
+    "answers": [
+     "Ontario",
+     "Oregon",
+     "Olanda",
+     "Oscar"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/26",
+   "number": 26,
+   "code": "15A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'P'?",
+   "image": null,
+   "answers": [
+    "Popeye",
+    "Pakistan",
+    "Pamela",
+    "Papa"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'P'?",
+    "answers": [
+     "Popeye",
+     "Pakistan",
+     "Pamela",
+     "Papa"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/27",
+   "number": 27,
+   "code": "16A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Q'?",
+   "image": null,
+   "answers": [
+    "Quebeq",
+    "Queen",
+    "Queensland",
+    "QSL"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Q'?",
+    "answers": [
+     "Quebeq",
+     "Queen",
+     "Queensland",
+     "QSL"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/28",
+   "number": 28,
+   "code": "17A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'R'?",
+   "image": null,
+   "answers": [
+    "Radio",
+    "Romeo",
+    "Radius",
+    "Rusia"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'R'?",
+    "answers": [
+     "Radio",
+     "Romeo",
+     "Radius",
+     "Rusia"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/29",
+   "number": 29,
+   "code": "18A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'S'?",
+   "image": null,
+   "answers": [
+    "Sugar",
+    "Santiago",
+    "Sierra",
+    "Spain"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'S'?",
+    "answers": [
+     "Sugar",
+     "Santiago",
+     "Sierra",
+     "Spain"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/30",
+   "number": 30,
+   "code": "19A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'T'?",
+   "image": null,
+   "answers": [
+    "Toto",
+    "Turkey",
+    "Tango",
+    "Terra"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'T'?",
+    "answers": [
+     "Toto",
+     "Turkey",
+     "Tango",
+     "Terra"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/31",
+   "number": 31,
+   "code": "20A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'U'?",
+   "image": null,
+   "answers": [
+    "Utah",
+    "Ubul",
+    "United",
+    "Uniform"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'U'?",
+    "answers": [
+     "Utah",
+     "Ubul",
+     "United",
+     "Uniform"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/32",
+   "number": 32,
+   "code": "21A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'V'?",
+   "image": null,
+   "answers": [
+    "Victor",
+    "Victoria",
+    "Volt",
+    "Varsovia"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'V'?",
+    "answers": [
+     "Victor",
+     "Victoria",
+     "Volt",
+     "Varsovia"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/33",
+   "number": 33,
+   "code": "22A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'W'?",
+   "image": null,
+   "answers": [
+    "double V",
+    "Whiskey",
+    "Washington",
+    "double Victoria"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'W'?",
+    "answers": [
+     "double V",
+     "Whiskey",
+     "Washington",
+     "double Victoria"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/34",
+   "number": 34,
+   "code": "23A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'X'?",
+   "image": null,
+   "answers": [
+    "Xilophone",
+    "X-ray",
+    "Cross",
+    "Xenon"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'X'?",
+    "answers": [
+     "Xilophone",
+     "X-ray",
+     "Cross",
+     "Xenon"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/35",
+   "number": 35,
+   "code": "24A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Y'?",
+   "image": null,
+   "answers": [
+    "Yoko",
+    "Yokohama",
+    "Yankee",
+    "Yahoo"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Y'?",
+    "answers": [
+     "Yoko",
+     "Yokohama",
+     "Yankee",
+     "Yahoo"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/36",
+   "number": 36,
+   "code": "25A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Z'?",
+   "image": null,
+   "answers": [
+    "Zanzibar",
+    "Zero",
+    "Zebra",
+    "Zulu"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Z'?",
+    "answers": [
+     "Zanzibar",
+     "Zero",
+     "Zebra",
+     "Zulu"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/37",
+   "number": 37,
+   "code": "26A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'A'?",
+   "image": null,
+   "answers": [
+    "Alpha",
+    "America",
+    "Atlantic",
+    "Africa"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'A'?",
+    "answers": [
+     "Alpha",
+     "America",
+     "Atlantic",
+     "Africa"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/38",
+   "number": 38,
+   "code": "27A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'B'?",
+   "image": null,
+   "answers": [
+    "Brasil",
+    "Bravo",
+    "Bogota",
+    "Berlin"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'B'?",
+    "answers": [
+     "Brasil",
+     "Bravo",
+     "Bogota",
+     "Berlin"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/39",
+   "number": 39,
+   "code": "28A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'C'?",
+   "image": null,
+   "answers": [
+    "Colorado",
+    "Colombo",
+    "Charlie",
+    "Cuba"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'C'?",
+    "answers": [
+     "Colorado",
+     "Colombo",
+     "Charlie",
+     "Cuba"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/40",
+   "number": 40,
+   "code": "29A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'D'?",
+   "image": null,
+   "answers": [
+    "Dog",
+    "Darwin",
+    "Delaware",
+    "Delta"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'D'?",
+    "answers": [
+     "Dog",
+     "Darwin",
+     "Delaware",
+     "Delta"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/41",
+   "number": 41,
+   "code": "30A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'E'?",
+   "image": null,
+   "answers": [
+    "Echo",
+    "Europa",
+    "Ecuator",
+    "Ecuador"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'E'?",
+    "answers": [
+     "Echo",
+     "Europa",
+     "Ecuator",
+     "Ecuador"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/42",
+   "number": 42,
+   "code": "31A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'F'?",
+   "image": null,
+   "answers": [
+    "Fox",
+    "Foxtrot",
+    "Florida",
+    "Faraday"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'F'?",
+    "answers": [
+     "Fox",
+     "Foxtrot",
+     "Florida",
+     "Faraday"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/43",
+   "number": 43,
+   "code": "32A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'G'?",
+   "image": null,
+   "answers": [
+    "Germany",
+    "Golf",
+    "Guatemala",
+    "Gemini"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'G'?",
+    "answers": [
+     "Germany",
+     "Golf",
+     "Guatemala",
+     "Gemini"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/44",
+   "number": 44,
+   "code": "33A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'H'?",
+   "image": null,
+   "answers": [
+    "Honolulu",
+    "Honduras",
+    "Hungary",
+    "Hotel"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'H'?",
+    "answers": [
+     "Honolulu",
+     "Honduras",
+     "Hungary",
+     "Hotel"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/45",
+   "number": 45,
+   "code": "34A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'I'?",
+   "image": null,
+   "answers": [
+    "India",
+    "Italy",
+    "Image",
+    "Iridium"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'I'?",
+    "answers": [
+     "India",
+     "Italy",
+     "Image",
+     "Iridium"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/46",
+   "number": 46,
+   "code": "35A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'J'?",
+   "image": null,
+   "answers": [
+    "Japan",
+    "Juliett",
+    "John",
+    "Jim"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'J'?",
+    "answers": [
+     "Japan",
+     "Juliett",
+     "John",
+     "Jim"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/47",
+   "number": 47,
+   "code": "36A161",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'K'?",
+   "image": null,
+   "answers": [
+    "Kenya",
+    "Kilowatt",
+    "Kilo",
+    "Key"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'K'?",
+    "answers": [
+     "Kenya",
+     "Kilowatt",
+     "Kilo",
+     "Key"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-4/48",
+   "number": 48,
+   "code": "01A251",
+   "question": "01B70J/ Analizaţi figura de mai jos şi stabiliţi care este 'zona de tăcere'.",
+   "image": {
+    "file": "images/01b70j_353.gif",
+    "width": 353
+   },
+   "answers": [
+    "Zona 1.",
+    "Zona 2.",
+    "Zona 3.",
+    "Zonele 1+3."
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Zona de tăcere este zona unde nu ajung unde radio de la emiţător, este zona în care, dacă am avea un receptor nu am putea auzi emiţătorul.\nZona 1 este acoperită prin unde de suprafaţă - unde directe.\nZona 3 este acoperită prin unde reflectate de ionosferă.\nDeoarece la o frecvenţă dată, există un unghi critic sub care undele nu se mai reflectă pe ionosferă ci străpung ionosfera şi se pierd în spaţiu, avem şi o zonă, imediat după zona acoperită cu unde de suprafaţă(zona1) neacoperită de unde reflectate. Aceasta este zona 2, a cărei mărime variază cu frecvenţa şi cu structura la acel moment al ionosferei.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "01B70J/ Analizaţi figura de mai jos şi stabiliţi care este 'zona de tăcere'.",
+    "answers": [
+     "Zona 1.",
+     "Zona 2.",
+     "Zona 3.",
+     "Zonele 1+3."
+    ],
+    "explanation": "Zona de tăcere este zona unde nu ajung unde radio de la emiţător, este zona în care, dacă am avea un receptor nu am putea auzi emiţătorul.<br>Zona 1 este acoperită prin unde de suprafaţă - unde directe.<br>Zona 3 este acoperită prin unde reflectate de ionosferă.<br>Deoarece la o frecvenţă dată, există un unghi critic sub care undele nu se mai reflectă pe ionosferă ci străpung ionosfera şi se pierd în spaţiu, avem şi o zonă, imediat după zona acoperită cu unde de suprafaţă(zona1) neacoperită de unde reflectate. Aceasta este zona 2, a cărei mărime variază cu frecvenţa şi cu structura la acel moment al ionosferei."
+   }
+  },
+  {
+   "id": "operare-clasa-4/49",
+   "number": 49,
+   "code": "02A251",
+   "question": "02B70J/ Analizaţi figura de mai jos şi stabiliţi care este 'zona de undă directă'.",
+   "image": {
+    "file": "images/01b70j_353.gif",
+    "width": 353
+   },
+   "answers": [
+    "Zona 1.",
+    "Zona 2.",
+    "Zona 3.",
+    "Zonele 2+3."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Zona de undă directă este zona în care undele se propagă fără reflexii pe ionosferă. Undele ajung la receptor prin propagare în linie dreaptă dacă nu sunt obstacole între emiţător şi receptor, şi prin difracţie, când undele ocolesc unele obstacole şi se propagă şi dincolo de orizont. Difracţia este diferită în funcţie de frecvenţă. Undele ultrascurte şi de frecvenţă foarte înaltă(VHF, UHF, SHF) se propagă aproximativ în acelaşi fel ca lumina.\nZona 1 este zona de undă directă.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "02B70J/ Analizaţi figura de mai jos şi stabiliţi care este 'zona de undă directă'.",
+    "answers": [
+     "Zona 1.",
+     "Zona 2.",
+     "Zona 3.",
+     "Zonele 2+3."
+    ],
+    "explanation": "Zona de undă directă este zona în care undele se propagă fără reflexii pe ionosferă. Undele ajung la receptor prin propagare în linie dreaptă dacă nu sunt obstacole între emiţător şi receptor, şi prin difracţie, când undele ocolesc unele obstacole şi se propagă şi dincolo de orizont. Difracţia este diferită în funcţie de frecvenţă. Undele ultrascurte şi de frecvenţă foarte înaltă(VHF, UHF, SHF) se propagă aproximativ în acelaşi fel ca lumina.<br>Zona 1 este zona de undă directă."
+   }
+  },
+  {
+   "id": "operare-clasa-4/50",
+   "number": 50,
+   "code": "03A251",
+   "question": "03B70J/ Analizaţi figura de mai jos şi stabiliţi care este 'zona de propagare prin salt (skip)'.",
+   "image": {
+    "file": "images/01b70j_353.gif",
+    "width": 353
+   },
+   "answers": [
+    "Zonele 1+2.",
+    "Zona 2.",
+    "Zona 3.",
+    "Zona 1."
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Zona 3 este acoperită prin unde reflectate de ionosferă.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "03B70J/ Analizaţi figura de mai jos şi stabiliţi care este 'zona de propagare prin salt (skip)'.",
+    "answers": [
+     "Zonele 1+2.",
+     "Zona 2.",
+     "Zona 3.",
+     "Zona 1."
+    ],
+    "explanation": "Zona 3 este acoperită prin unde reflectate de ionosferă."
+   }
+  },
+  {
+   "id": "operare-clasa-4/51",
+   "number": 51,
+   "code": "04A254",
+   "question": "04B70J/ Analizaţi figura de mai jos şi stabiliţi care este zona denumită în mod obişnuit 'de noapte' pentru banda de 80m.",
+   "image": {
+    "file": "images/01b70j_353.gif",
+    "width": 353
+   },
+   "answers": [
+    "Zona 1.",
+    "Zona 2.",
+    "Zona 3.",
+    "Zonele 1+2."
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Noaptea, stratul D al ionosferei, răspunzător de propagarea în 3.5-3.7 MHz - banda de 80m, ionizat de soare în timpul zilei, se linişteşte, dar rămâne ionizat şi favorizează QSO-uri la distanţe mari.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2008",
+   "html": {
+    "question": "04B70J/ Analizaţi figura de mai jos şi stabiliţi care este zona denumită în mod obişnuit 'de noapte' pentru banda de 80m.",
+    "answers": [
+     "Zona 1.",
+     "Zona 2.",
+     "Zona 3.",
+     "Zonele 1+2."
+    ],
+    "explanation": "Noaptea, stratul D al ionosferei, răspunzător de propagarea în 3.5-3.7 MHz - banda de 80m, ionizat de soare în timpul zilei, se linişteşte, dar rămâne ionizat şi favorizează QSO-uri la distanţe mari."
+   }
+  },
+  {
+   "id": "operare-clasa-4/52",
+   "number": 52,
+   "code": "02B253",
+   "question": "08B70K/ în care dintre benzile de amator menţionate mai jos este probabilitatea mai mare de apariţie a propagării prin 'E sporadic'?",
+   "image": null,
+   "answers": [
+    "în banda de 2m.",
+    "în banda de 6m.",
+    "în banda de 20m.",
+    "în banda de 80m."
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "08B70K/ în care dintre benzile de amator menţionate mai jos este probabilitatea mai mare de apariţie a propagării prin 'E sporadic'?",
+    "answers": [
+     "în banda de 2m.",
+     "în banda de 6m.",
+     "în banda de 20m.",
+     "în banda de 80m."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "operare-clasa-4/53",
+   "number": 53,
+   "code": "01A253",
+   "question": "17B70M/ Care este cauza cea mai probabilă a apariţiei aurorei Boreale?",
+   "image": null,
+   "answers": [
+    "Creşterea numărului de pete solare.",
+    "Scăderea numărului de pete solare.",
+    "Bombardamentul cu particule puternic ionizante emise de soare.",
+    "Norul de micro meteoriţi concentrat de forţa centrifugă în zona polară."
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Aurora apare atunci când micro-particulele de foarte mare viteză ejectate din Soare în direcţia Pământului sunt captate de câmpurile magnetice foarte intense de la poli, traiectoria lor modificată, şi aunci ele intră în atmosfera polară cu o viteză foarte mare, ionizează aerul, eliberând energie inclusiv în spectrul vizual(luminile aurorei).",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2008",
+   "html": {
+    "question": "17B70M/ Care este cauza cea mai probabilă a apariţiei aurorei Boreale?",
+    "answers": [
+     "Creşterea numărului de pete solare.",
+     "Scăderea numărului de pete solare.",
+     "Bombardamentul cu particule puternic ionizante emise de soare.",
+     "Norul de micro meteoriţi concentrat de forţa centrifugă în zona polară."
+    ],
+    "explanation": "Aurora apare atunci când micro-particulele de foarte mare viteză ejectate din Soare în direcţia Pământului sunt captate de câmpurile magnetice foarte intense de la poli, traiectoria lor modificată, şi aunci ele intră în atmosfera polară cu o viteză foarte mare, ionizează aerul, eliberând energie inclusiv în spectrul vizual(luminile aurorei)."
+   }
+  },
+  {
+   "id": "operare-clasa-4/54",
+   "number": 54,
+   "code": "02A253",
+   "question": "18B70M/ în ce direcţie trebuie îndreptată o antenă directiva situată în emisfera nordică pentru a utiliza optim propagarea pe auroră?",
+   "image": null,
+   "answers": [
+    "Spre Sud.",
+    "Spre Nord",
+    "Spre Est.",
+    "Spre Vest."
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Antena trebuie îndreptată spre auroră. Cum din YO, aurora este spre N, spre Nord trebuie îndreptată. Către S,E,V nu avem nicio auroră.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2007",
+   "html": {
+    "question": "18B70M/ în ce direcţie trebuie îndreptată o antenă directiva situată în emisfera nordică pentru a utiliza optim propagarea pe auroră?",
+    "answers": [
+     "Spre Sud.",
+     "Spre Nord",
+     "Spre Est.",
+     "Spre Vest."
+    ],
+    "explanation": "Antena trebuie îndreptată spre auroră. Cum din YO, aurora este spre N, spre Nord trebuie îndreptată. Către S,E,V nu avem nicio auroră."
+   }
+  },
+  {
+   "id": "operare-clasa-4/55",
+   "number": 55,
+   "code": "03A253",
+   "question": "19B70M/ Unde anume în ionosferă este situată aurora Boreală?",
+   "image": null,
+   "answers": [
+    "La înălţimea stratului F1.",
+    "La înălţimea stratului F2.",
+    "La înălţimea stratului E.",
+    "La înălţimea stratului D."
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "19B70M/ Unde anume în ionosferă este situată aurora Boreală?",
+    "answers": [
+     "La înălţimea stratului F1.",
+     "La înălţimea stratului F2.",
+     "La înălţimea stratului E.",
+     "La înălţimea stratului D."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "operare-clasa-4/56",
+   "number": 56,
+   "code": "04A253",
+   "question": "20B70M/ Care dintre modurile de lucru enumerate mai jos sunt cele mai potrivite în condiţiile propagării pe auroră?",
+   "image": null,
+   "answers": [
+    "CW.",
+    "SSB şi FM.",
+    "FM şi PM",
+    "DSB şi RTTY"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Aurora este un mediu de propagare ostil, putem să o comparăm cu reflexia luminii pe o oglindă convexă cu suprafaţă care se vălureşte continuu. CW - prezenţa sau absenţa luminii, este cea mai simplă codificare a informaţiei, iar varianta QRSSS(CW foarte lent) este cea mai imună la perturbaţii. Modulaţiile vocale SSB, DSB, FM nu fac faţă, PM e foarte probabil să fie afectat, iar RTTY, un mod digital, probabil ar merge, la viteză foarte scăzută, şi cu multe erori.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2008",
+   "html": {
+    "question": "20B70M/ Care dintre modurile de lucru enumerate mai jos sunt cele mai potrivite în condiţiile propagării pe auroră?",
+    "answers": [
+     "CW.",
+     "SSB şi FM.",
+     "FM şi PM",
+     "DSB şi RTTY"
+    ],
+    "explanation": "Aurora este un mediu de propagare ostil, putem să o comparăm cu reflexia luminii pe o oglindă convexă cu suprafaţă care se vălureşte continuu. CW - prezenţa sau absenţa luminii, este cea mai simplă codificare a informaţiei, iar varianta QRSSS(CW foarte lent) este cea mai imună la perturbaţii. Modulaţiile vocale SSB, DSB, FM nu fac faţă, PM e foarte probabil să fie afectat, iar RTTY, un mod digital, probabil ar merge, la viteză foarte scăzută, şi cu multe erori."
+   }
+  },
+  {
+   "id": "operare-clasa-4/57",
+   "number": 57,
+   "code": "03B251",
+   "question": "21B70N/ Cum se explică faptul că 'orizontul radio' depăşeşte orizontul geometric?",
+   "image": null,
+   "answers": [
+    "Prin propagarea pe stratul E.",
+    "Prin propagarea pe stratul F.",
+    "Prin propagarea pe straturile E şi F.",
+    "Prin curbarea traseului undelor radio."
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "'curbarea traseului undelor radio' şi 'efectul de creastă în VHF, UHF' sunt nişte efecte mai mult constatate şi mai puţin explicate.\nEu văd 2 cauze pentreu aceste efecte: 1) Efectul de 'near-field propagation', unda electromagnetică se deplasează cu precădere în zona din apropiere a unui conductor şi îi urmează traseul - ex. linii de transmisiune, ghidurile de undă în microunde, conductoare oarecare în zona 13MHz, şi solul, în cazul problemei noastre - solul conduce şi este şi GND. 2) Efectul termic al straturilor de aer, care generează interfeţe cu parametri ε diferiţi şi forţează o curbare a traiectoriei undei. Este mai pregnant în UHF, dar nu se compară nici pe departe cu reflexiile pe ionosferă.\nAm găsit o dizertaţie mai completă despre asta 'Bent Radio' (http://www.eham.net/articles/18577) pe www.eham.net.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2008",
+   "html": {
+    "question": "21B70N/ Cum se explică faptul că 'orizontul radio' depăşeşte orizontul geometric?",
+    "answers": [
+     "Prin propagarea pe stratul E.",
+     "Prin propagarea pe stratul F.",
+     "Prin propagarea pe straturile E şi F.",
+     "Prin curbarea traseului undelor radio."
+    ],
+    "explanation": "'curbarea traseului undelor radio' şi 'efectul de creastă în VHF, UHF' sunt nişte efecte mai mult constatate şi mai puţin explicate.<br>Eu văd 2 cauze pentreu aceste efecte: 1) Efectul de 'near-field propagation', unda electromagnetică se deplasează cu precădere în zona din apropiere a unui conductor şi îi urmează traseul - ex. linii de transmisiune, ghidurile de undă în microunde, conductoare oarecare în zona 13MHz, şi solul, în cazul problemei noastre - solul conduce şi este şi GND. 2) Efectul termic al straturilor de aer, care generează interfeţe cu parametri &epsilon; diferiţi şi forţează o curbare a traiectoriei undei. Este mai pregnant în UHF, dar nu se compară nici pe departe cu reflexiile pe ionosferă.<br>Am găsit o dizertaţie mai completă despre asta <a href=\"http://www.eham.net/articles/18577\" target=\"_blank\">'Bent Radio'</a> pe www.eham.net."
+   }
+  },
+  {
+   "id": "operare-clasa-4/58",
+   "number": 58,
+   "code": "04B251",
+   "question": "22B70N/ Aproximativ cu ce procent creşte orizontul radio faţă de orizontul geometric?",
+   "image": null,
+   "answers": [
+    "15%",
+    "50%",
+    "100%",
+    "200%"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Puţin. 15% e cel mai obişnuit caz.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2008",
+   "html": {
+    "question": "22B70N/ Aproximativ cu ce procent creşte orizontul radio faţă de orizontul geometric?",
+    "answers": [
+     "15%",
+     "50%",
+     "100%",
+     "200%"
+    ],
+    "explanation": "Puţin. 15% e cel mai obişnuit caz."
+   }
+  },
+  {
+   "id": "operare-clasa-4/59",
+   "number": 59,
+   "code": "05B251",
+   "question": "23B70/ Aproximativ la ce distanţă este limitată în mod obişnuit propagarea în VHF?",
+   "image": null,
+   "answers": [
+    "1000km",
+    "2000km",
+    "3000km",
+    "4000km"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "In mod obişnuit, propagarea VHF este limitată la linia orizontului, la câteva zeci de km. Câteva sute de km sunt accesibile în mod curent radioamatorilor cu echipamente performante, antene în locaţii bine amplasate, şi cu experienţă în DX.\nQSO-uri transatlantice(4000km+) au existat destule, dar întrebarea accentuează 'în mod obişnuit' - media aritmetică a numărului de ţări confirmate de membrii YO DX Club, la categoria 'confirmate 144MHz' (http://www.radioamator.ro/yodxclub/clasament.php?t=9) este aproximativ 35, şi dacă numărăm cele mai apropiate 28 entităţi/ţări din jurul YO, ne încadrăm lejer într-un cerc cu raza de 1000 de km, şi observăm că un cerc cu raza de 2000km conţine cu mult peste 28 de ţări.\nEu am calculat interpretând în felul meu termenul 'în mod obişnuit' din enunt, şi alte interpretări ar putea fi valabile şi argumentabile.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2008",
+   "html": {
+    "question": "23B70/ Aproximativ la ce distanţă este limitată în mod obişnuit propagarea în VHF?",
+    "answers": [
+     "1000km",
+     "2000km",
+     "3000km",
+     "4000km"
+    ],
+    "explanation": "In mod obişnuit, propagarea VHF este limitată la linia orizontului, la câteva zeci de km. Câteva sute de km sunt accesibile în mod curent radioamatorilor cu echipamente performante, antene în locaţii bine amplasate, şi cu experienţă în DX.<br>QSO-uri transatlantice(4000km+) au existat destule, dar întrebarea accentuează 'în mod obişnuit' - media aritmetică a numărului de ţări confirmate de membrii YO DX Club, la categoria <a href=\"http://www.radioamator.ro/yodxclub/clasament.php?t=9\" target=\"_blank\">'confirmate 144MHz'</a> este aproximativ 35, şi dacă numărăm cele mai apropiate 28 entităţi/ţări din jurul YO, ne încadrăm lejer într-un cerc cu raza de 1000 de km, şi observăm că un cerc cu raza de 2000km conţine cu mult peste 28 de ţări.<br>Eu am calculat interpretând în felul meu termenul 'în mod obişnuit' din enunt, şi alte interpretări ar putea fi valabile şi argumentabile."
+   }
+  },
+  {
+   "id": "operare-clasa-4/60",
+   "number": 60,
+   "code": "01B251",
+   "question": "24B70/ Care dintre fenomenele de propagare este cauza cea mai probabilă, dacă un semnal VHF este recepţionat la o distanţă mai mare de 1000km?",
+   "image": null,
+   "answers": [
+    "absorbţie în stratul D.",
+    "rotaţie Faraday.",
+    "ghid ('ducting') troposferic.",
+    "difracţie pe creastă."
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "Subiect public ANCOM, 2007",
+   "explanation": "Prin eliminare:\nMUF(Maximum Usable Frequency) pentru stratul D este 3.5 - 7MHz, VHF trece prin stratul D\nDifracţia de creastă este responsabilă de propagarea 'peste deal', nu 1000km.\nRotaţia Faraday se referă la schimbarea unghiului de polarizare a undei radio prin rotire.\nŞi aşa mai rămâne ducting tropo, care într-adevar e un proces responsabil pentru propagarea VHF la mare distanţă.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2008",
+   "html": {
+    "question": "24B70/ Care dintre fenomenele de propagare este cauza cea mai probabilă, dacă un semnal VHF este recepţionat la o distanţă mai mare de 1000km?",
+    "answers": [
+     "absorbţie în stratul D.",
+     "rotaţie Faraday.",
+     "ghid ('ducting') troposferic.",
+     "difracţie pe creastă."
+    ],
+    "explanation": "Prin eliminare:<br>MUF(Maximum Usable Frequency) pentru stratul D este 3.5 - 7MHz, VHF trece prin stratul D<br>Difracţia de creastă este responsabilă de propagarea 'peste deal', nu 1000km.<br>Rotaţia Faraday se referă la schimbarea unghiului de polarizare a undei radio prin rotire.<br>Şi aşa mai rămâne ducting tropo, care într-adevar e un proces responsabil pentru propagarea VHF la mare distanţă."
+   }
+  },
+  {
+   "id": "operare-clasa-4/61",
+   "number": 61,
+   "code": "05A253",
+   "question": "Care este numele zonei atmosferice care face posibile comunicaţiile radio de mare distanţă prin reflexia undelor radio?",
+   "image": null,
+   "answers": [
+    "troposferă",
+    "stratosferă",
+    "magnetosferă",
+    "ionosferă"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN - adaptare după eham.net, 2007",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Care este numele zonei atmosferice care face posibile comunicaţiile radio de mare distanţă prin reflexia undelor radio?",
+    "answers": [
+     "troposferă",
+     "stratosferă",
+     "magnetosferă",
+     "ionosferă"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "operare-clasa-4/62",
+   "number": 62,
+   "code": "06A253",
+   "question": "Care este relaţia dintre numărul petelor solare şi gradul de ionizare al ionosferei?",
+   "image": null,
+   "answers": [
+    "gradul de ionizare creşte cu creşterea numărului de pete solare.",
+    "creşte numărul de pete solare, scade gradul de ionizare.",
+    "dacă nu sunt pete solare, ionizarea este zero.",
+    "ionizarea nu are legătură cu petele solare."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Braşov, 2005",
+   "explanation": "Petele solare sunt manifestările pe scoarţa solară a fluctuaţiilor de câmp magnetic solar şi a erupţiilor solare. Erupţiile antrenează în spaţiu cantităţi enorme de electroni, protoni şi alte particule, din care unele produc o ionizare a stratului superior al atmosferei Pământului - ionosfera.\nAcest strat ionizat se comportă în anumite circumstanţe ca o oglindă pentru undele radio",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Care este relaţia dintre numărul petelor solare şi gradul de ionizare al ionosferei?",
+    "answers": [
+     "gradul de ionizare creşte cu creşterea numărului de pete solare.",
+     "creşte numărul de pete solare, scade gradul de ionizare.",
+     "dacă nu sunt pete solare, ionizarea este zero.",
+     "ionizarea nu are legătură cu petele solare."
+    ],
+    "explanation": "Petele solare sunt manifestările pe scoarţa solară a fluctuaţiilor de câmp magnetic solar şi a erupţiilor solare. Erupţiile antrenează în spaţiu cantităţi enorme de electroni, protoni şi alte particule, din care unele produc o ionizare a stratului superior al atmosferei Pământului - ionosfera.<br>Acest strat ionizat se comportă în anumite circumstanţe ca o oglindă pentru undele radio"
+   }
+  }
+ ]
+}

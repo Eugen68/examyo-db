@@ -1,0 +1,976 @@
+{
+ "slug": "sanctiuni",
+ "source_file": "db_sanctiuni",
+ "category": "sanctiuni",
+ "classes": [
+  "I",
+  "II",
+  "III",
+  "IV"
+ ],
+ "title": "Legislație - sancțiuni, toate clasele v.3.0.5",
+ "version": "3.0.5",
+ "curriculum": "prog_reg_sanctiuni",
+ "declared_count": 33,
+ "count": 33,
+ "with_explanation": 17,
+ "questions": [
+  {
+   "id": "sanctiuni/0",
+   "number": 0,
+   "code": "01A3562",
+   "question": "Ce este autorizația de radioamator?",
+   "image": null,
+   "answers": [
+    "Act prin care se atribuie un indicativ și se acordă unei persoane cu domiciliul sau rezidența pe teritoriul României dreptul de a opera o stație de radioamator în benzile de frecvență de radioamator;",
+    "Act prin care unui radioamator i se acorda dreptul de a opera o stație de radioamator în toate benzile de frecvență;",
+    "Act prin care se atestă că titularul deține cunoștințele și aptitudinile necesare operării unei stații de radiocomunicații în serviciul de amator;",
+    "Act prin care este autorizata folosirea unui indicativ de stație la o anumită adresă."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce este autorizația de radioamator?",
+    "answers": [
+     "Act prin care se atribuie un indicativ și se acordă unei persoane cu domiciliul sau rezidența pe teritoriul României dreptul de a opera o stație de radioamator în benzile de frecvență de radioamator;",
+     "Act prin care unui radioamator i se acorda dreptul de a opera o stație de radioamator în toate benzile de frecvență;",
+     "Act prin care se atestă că titularul deține cunoștințele și aptitudinile necesare operării unei stații de radiocomunicații în serviciul de amator;",
+     "Act prin care este autorizata folosirea unui indicativ de stație la o anumită adresă."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/1",
+   "number": 1,
+   "code": "02A3562",
+   "question": "Ce este certificatul de radioamator?",
+   "image": null,
+   "answers": [
+    "Act prin care se atribuie un indicativ și se acordă unei persoane cu domiciliul sau rezidența pe teritoriul României dreptul de a opera o stație de radioamator în benzile de frecvență de radioamator;",
+    "Act prin care unui radioamator i se acordă dreptul de a opera o stație de radioamator în toate benzile de frecvență;",
+    "Act prin care se atestă că titularul deține cunoștințele și aptitudinile necesare operării unei stații de radiocomunicații în serviciul de amator;",
+    "Act prin care este autorizata folosirea unui indicativ de stație la o anumită adresă."
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce este certificatul de radioamator?",
+    "answers": [
+     "Act prin care se atribuie un indicativ și se acordă unei persoane cu domiciliul sau rezidența pe teritoriul României dreptul de a opera o stație de radioamator în benzile de frecvență de radioamator;",
+     "Act prin care unui radioamator i se acordă dreptul de a opera o stație de radioamator în toate benzile de frecvență;",
+     "Act prin care se atestă că titularul deține cunoștințele și aptitudinile necesare operării unei stații de radiocomunicații în serviciul de amator;",
+     "Act prin care este autorizata folosirea unui indicativ de stație la o anumită adresă."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/2",
+   "number": 2,
+   "code": "01A3564",
+   "question": "Titularul unei autorizații de radioamator are următoarele obligații:",
+   "image": null,
+   "answers": [
+    "să transmită complet și corect indicativele de apel în conformitate cu actele normative în vigoare;",
+    "să respecte parametrii de emisie ai legăturilor radio efectuate, în mod direct sau de la distanță, indiferent de stația de la care lucrează radioamatorul: a sa proprie, de radioclub, deținută de o altă persoană sau pusă la dispoziție către un alt radioamator;",
+    "să nu transmită date și informații ce nu au legătură cu activitatea de radioamator ori care au caracter comercial sau a mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;",
+    "Toate celelalte variante sunt corecte"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Titularul unei autorizații de radioamator are următoarele obligații:",
+    "answers": [
+     "să transmită complet și corect indicativele de apel în conformitate cu actele normative în vigoare;",
+     "să respecte parametrii de emisie ai legăturilor radio efectuate, în mod direct sau de la distanță, indiferent de stația de la care lucrează radioamatorul: a sa proprie, de radioclub, deținută de o altă persoană sau pusă la dispoziție către un alt radioamator;",
+     "să nu transmită date și informații ce nu au legătură cu activitatea de radioamator ori care au caracter comercial sau a mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;",
+     "Toate celelalte variante sunt corecte"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/3",
+   "number": 3,
+   "code": "02A3564",
+   "question": "Titularul unei autorizații de radioamator are următoarele obligații:",
+   "image": null,
+   "answers": [
+    "să nu intercepteze mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații decât cel de amator sau, în situația în care interceptarea mesajelor are loc accidental, să nu divulge existența sau conținutul mesajelor recepționate, să nu se folosească de acestea sub nicio formă, cu excepția situațiilor de urgență sau a altor interese publice;",
+    "să intercepteze după dorință mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații decât cel de amator dar să nu divulge existența sau conținutul mesajelor recepționate;",
+    "să nu intercepteze mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații, cu excepția celor necodate în vreun fel, pentru situații de urgență, dar să nu divulge existența sau conținutul mesajelor recepționate, să nu se folosească de acestea sub nicio formă, cu excepția situațiilor de urgență sau a altor interese publice;",
+    "să nu intercepteze mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații, care nu sunt codate sau criptate în vreun fel, dar dacă se întâmplă accidental, să le stocheze sub formă înregistrată cel puțin un an."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Titularul unei autorizații de radioamator are următoarele obligații:",
+    "answers": [
+     "să nu intercepteze mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații decât cel de amator sau, în situația în care interceptarea mesajelor are loc accidental, să nu divulge existența sau conținutul mesajelor recepționate, să nu se folosească de acestea sub nicio formă, cu excepția situațiilor de urgență sau a altor interese publice;",
+     "să intercepteze după dorință mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații decât cel de amator dar să nu divulge existența sau conținutul mesajelor recepționate;",
+     "să nu intercepteze mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații, cu excepția celor necodate în vreun fel, pentru situații de urgență, dar să nu divulge existența sau conținutul mesajelor recepționate, să nu se folosească de acestea sub nicio formă, cu excepția situațiilor de urgență sau a altor interese publice;",
+     "să nu intercepteze mesajele transmise de operatori ce aparțin altor servicii de radiocomunicații, care nu sunt codate sau criptate în vreun fel, dar dacă se întâmplă accidental, să le stocheze sub formă înregistrată cel puțin un an."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/4",
+   "number": 4,
+   "code": "03A3564",
+   "question": "Titularul unei autorizații de radioamator are obligația:",
+   "image": null,
+   "answers": [
+    "să nu realizeze legături radio cu operatori ce aparțin altor servicii de radiocomunicații sau cu radioamatori, respectiv operatori, care nu își comunică identitatea prin transmiterea indicativului de apel",
+    "poate să realizeze legături radio cu radioamatori care nu își comunică de la început identitatea prin transmiterea indicativului de apel, doar în limita primelor 10 minute de transmitere obligatorie a indicativului",
+    "să răspundă la apelul unui radioamator care nu își comunică de la început identitatea prin transmiterea indicativului de apel, doar în limita primelor 10 minute de transmitere obligatorie a indicativului",
+    "să fie selectiv în a răspunde la apelul unor operatori care nu pot dovedi că sunt radioamatori."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Titularul unei autorizații de radioamator are obligația:",
+    "answers": [
+     "să nu realizeze legături radio cu operatori ce aparțin altor servicii de radiocomunicații sau cu radioamatori, respectiv operatori, care nu își comunică identitatea prin transmiterea indicativului de apel",
+     "poate să realizeze legături radio cu radioamatori care nu își comunică de la început identitatea prin transmiterea indicativului de apel, doar în limita primelor 10 minute de transmitere obligatorie a indicativului",
+     "să răspundă la apelul unui radioamator care nu își comunică de la început identitatea prin transmiterea indicativului de apel, doar în limita primelor 10 minute de transmitere obligatorie a indicativului",
+     "să fie selectiv în a răspunde la apelul unor operatori care nu pot dovedi că sunt radioamatori."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/5",
+   "number": 5,
+   "code": "04A3564",
+   "question": "Deținătorul unei stații de radioamator trebuie să asigure:",
+   "image": null,
+   "answers": [
+    "respectarea parametrilor de emisie și a conținutului legăturilor radio efectuate, în mod direct sau de la distanță, de către orice radioamator care lucrează pe o stație a radioclubului la care el este responsabil sau pe stația radio deținută în condițiile stabilite prin actele normative în vigoare și să mențină o copie audio a traficului realizat pe stația radio operată la distanță;",
+    "menționarea, în jurnalul de trafic, a identității radioamatorilor care au utilizat stația de radioclub la care este responsabil sau stația radio deținută în mod direct sau de la distanță, precum și parametrii tehnici ai legăturilor radio efectuate;",
+    "punerea la dispoziție a unei stații radio doar către persoane care dețin calitatea de radioamator.",
+    "toate celelalte trei variante sunt corecte"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Deținătorul unei stații de radioamator trebuie să asigure:",
+    "answers": [
+     "respectarea parametrilor de emisie și a conținutului legăturilor radio efectuate, în mod direct sau de la distanță, de către orice radioamator care lucrează pe o stație a radioclubului la care el este responsabil sau pe stația radio deținută în condițiile stabilite prin actele normative în vigoare și să mențină o copie audio a traficului realizat pe stația radio operată la distanță;",
+     "menționarea, în jurnalul de trafic, a identității radioamatorilor care au utilizat stația de radioclub la care este responsabil sau stația radio deținută în mod direct sau de la distanță, precum și parametrii tehnici ai legăturilor radio efectuate;",
+     "punerea la dispoziție a unei stații radio doar către persoane care dețin calitatea de radioamator.",
+     "toate celelalte trei variante sunt corecte"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/6",
+   "number": 6,
+   "code": "05B3564",
+   "question": "Cine trebuie să mențină o copie audio a traficului realizat pe stația radio, în condițiile stabilite prin actele normative în vigoare?",
+   "image": null,
+   "answers": [
+    "Radioamatorul care permite lucrul la distanță altui radioamator pe stația sa.",
+    "Toți radioamatorii, pentru traficul realizat pe stația proprie.",
+    "responsabilul stației de club, pentru traficul făcut pe stația de club",
+    "Radioamatorul nu ține copie audio a traficului ci înregistrează radiolegăturile în jurnalul de trafic."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\nhttp://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2019",
+   "html": {
+    "question": "Cine trebuie să mențină o copie audio a traficului realizat pe stația radio, în condițiile stabilite prin actele normative în vigoare?",
+    "answers": [
+     "Radioamatorul care permite lucrul la distanță altui radioamator pe stația sa.",
+     "Toți radioamatorii, pentru traficul realizat pe stația proprie.",
+     "responsabilul stației de club, pentru traficul făcut pe stația de club",
+     "Radioamatorul nu ține copie audio a traficului ci înregistrează radiolegăturile în jurnalul de trafic."
+    ],
+    "explanation": "<a href=\"http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\">http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf</a><br><a href=\"http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html\">http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html</a>"
+   }
+  },
+  {
+   "id": "sanctiuni/7",
+   "number": 7,
+   "code": "06B3564",
+   "question": "Cine trebuie să mențină o copie audio a traficului realizat pe stația radio, în condițiile stabilite prin actele normative în vigoare?",
+   "image": null,
+   "answers": [
+    "responsabilul de club pentru stațiile de radioclub, în cazul în care acestea sunt operate de la distanță",
+    "Toți radioamatorii, pentru traficul realizat pe stația proprie.",
+    "responsabilul stației de club, pentru traficul făcut pe stația de club",
+    "responsabilul stației nu ține copie audio a traficului ci înregistrează radiolegăturile în jurnalul de trafic."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\nhttp://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2019",
+   "html": {
+    "question": "Cine trebuie să mențină o copie audio a traficului realizat pe stația radio, în condițiile stabilite prin actele normative în vigoare?",
+    "answers": [
+     "responsabilul de club pentru stațiile de radioclub, în cazul în care acestea sunt operate de la distanță",
+     "Toți radioamatorii, pentru traficul realizat pe stația proprie.",
+     "responsabilul stației de club, pentru traficul făcut pe stația de club",
+     "responsabilul stației nu ține copie audio a traficului ci înregistrează radiolegăturile în jurnalul de trafic."
+    ],
+    "explanation": "<a href=\"http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\">http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf</a><br><a href=\"http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html\">http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html</a>"
+   }
+  },
+  {
+   "id": "sanctiuni/8",
+   "number": 8,
+   "code": "07B3564",
+   "question": "Când trebuie responsabilul stației de club să înregistreze în format audio traficul realizat pe stația de club?",
+   "image": null,
+   "answers": [
+    "Atunci când stația de club este operată la distanță. Pe lângă copia audio a traficului, se completează jurnalul de trafic cu identitatea operatorului la distanță și parametrii tehnici folosiți.",
+    "Tot traficul realizat pe stația de club trebuie înregistrat în format audio.",
+    "Atunci când pune la dispoziție stația de club pentru lucru direct sau la distanță unui radioamator",
+    "Niciodată, responsabilul stației nu ține copie audio a traficului ci înregistrează radiolegăturile în jurnalul de trafic."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\nhttp://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2019",
+   "html": {
+    "question": "Când trebuie responsabilul stației de club să înregistreze în format audio traficul realizat pe stația de club?",
+    "answers": [
+     "Atunci când stația de club este operată la distanță. Pe lângă copia audio a traficului, se completează jurnalul de trafic cu identitatea operatorului la distanță și parametrii tehnici folosiți.",
+     "Tot traficul realizat pe stația de club trebuie înregistrat în format audio.",
+     "Atunci când pune la dispoziție stația de club pentru lucru direct sau la distanță unui radioamator",
+     "Niciodată, responsabilul stației nu ține copie audio a traficului ci înregistrează radiolegăturile în jurnalul de trafic."
+    ],
+    "explanation": "<a href=\"http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\">http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf</a><br><a href=\"http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html\">http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html</a>"
+   }
+  },
+  {
+   "id": "sanctiuni/9",
+   "number": 9,
+   "code": "08B3564",
+   "question": "Când trebuie radioamatorul titular al stației să înregistreze în format audio traficul realizat pe stația sa?",
+   "image": null,
+   "answers": [
+    "Atunci când stația sa este operată la distanță de un alt radioamator. Pe lângă copia audio a traficului, se completează jurnalul de trafic cu identitatea operatorului la distanță și parametrii tehnici folosiți.",
+    "Atunci când stația face trafic, tot traficul realizat pe stația sa trebuie înregistrat în format audio.",
+    "Atunci când pune la dispoziție stația sa altui radioamator pentru lucru direct sau la distanță",
+    "Niciodată, nu se ține o copie audio a traficului ci se înregistrează radiolegăturile în jurnalul de trafic."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\nhttp://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2019",
+   "html": {
+    "question": "Când trebuie radioamatorul titular al stației să înregistreze în format audio traficul realizat pe stația sa?",
+    "answers": [
+     "Atunci când stația sa este operată la distanță de un alt radioamator. Pe lângă copia audio a traficului, se completează jurnalul de trafic cu identitatea operatorului la distanță și parametrii tehnici folosiți.",
+     "Atunci când stația face trafic, tot traficul realizat pe stația sa trebuie înregistrat în format audio.",
+     "Atunci când pune la dispoziție stația sa altui radioamator pentru lucru direct sau la distanță",
+     "Niciodată, nu se ține o copie audio a traficului ci se înregistrează radiolegăturile în jurnalul de trafic."
+    ],
+    "explanation": "<a href=\"http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\">http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf</a><br><a href=\"http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html\">http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html</a>"
+   }
+  },
+  {
+   "id": "sanctiuni/10",
+   "number": 10,
+   "code": "09B3564",
+   "question": "Cât timp trebuie păstrată copia audio a traficului unei stații operate de la distanță?",
+   "image": null,
+   "answers": [
+    "un an",
+    "6 luni",
+    "trei ani",
+    "60 de zile"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\nhttp://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2019",
+   "html": {
+    "question": "Cât timp trebuie păstrată copia audio a traficului unei stații operate de la distanță?",
+    "answers": [
+     "un an",
+     "6 luni",
+     "trei ani",
+     "60 de zile"
+    ],
+    "explanation": "<a href=\"http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\">http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf</a><br><a href=\"http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html\">http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html</a>"
+   }
+  },
+  {
+   "id": "sanctiuni/11",
+   "number": 11,
+   "code": "10B3564",
+   "question": "Care sunt tipurile de stații de radioamator pentru care nu se poate evita înregistrarea integrală în format audio a traficului efectuat?",
+   "image": null,
+   "answers": [
+    "toate stațiile/echipamentele operate doar la distanță, cum ar fi: sateliți de radioamator, stații repetoare, digipeatere, noduri, MMDVM",
+    "toate stațiile de club",
+    "toate stațiile cu titular o persoană juridică",
+    "toate stațiile operate de o Inteligență Artificială (AI)"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\nhttp://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2019",
+   "html": {
+    "question": "Care sunt tipurile de stații de radioamator pentru care nu se poate evita înregistrarea integrală în format audio a traficului efectuat?",
+    "answers": [
+     "toate stațiile/echipamentele operate doar la distanță, cum ar fi: sateliți de radioamator, stații repetoare, digipeatere, noduri, MMDVM",
+     "toate stațiile de club",
+     "toate stațiile cu titular o persoană juridică",
+     "toate stațiile operate de o Inteligență Artificială (AI)"
+    ],
+    "explanation": "<a href=\"http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf\">http://www.ancom.org.ro/uploads/links_files/Precizari_referitoare_la_sanctiunea_stabilita_in_art_4_lit_g.pdf</a><br><a href=\"http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html\">http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html</a>"
+   }
+  },
+  {
+   "id": "sanctiuni/12",
+   "number": 12,
+   "code": "01A3565",
+   "question": "Cine desfășoară activitatea de supraveghere și control în scopul asigurării îndeplinirii dispozițiilor legii?",
+   "image": null,
+   "answers": [
+    "Autoritatea Națională pentru Administrare și Reglementare în Comunicații - ANCOM.",
+    "Autoritatea Națională pentru Administrare și Reglementare în Comunicații - ANRC.",
+    "Inspectoratul General în Comunicații și Tehnologia Informației - IGCTI",
+    "La stația lui, radioamatorul însuși"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cine desfășoară activitatea de supraveghere și control în scopul asigurării îndeplinirii dispozițiilor legii?",
+    "answers": [
+     "Autoritatea Națională pentru Administrare și Reglementare în Comunicații - ANCOM.",
+     "Autoritatea Națională pentru Administrare și Reglementare în Comunicații - ANRC.",
+     "Inspectoratul General în Comunicații și Tehnologia Informației - IGCTI",
+     "La stația lui, radioamatorul însuși"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/13",
+   "number": 13,
+   "code": "01A3566",
+   "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+   "image": null,
+   "answers": [
+    "operarea unei stații de radiocomunicații în alte benzi de frecvențe radio decât cele atribuite serviciului de amator",
+    "operarea unei stații de radioamator la marginea benzii de frecvență alocate",
+    "operarea unei stații de radioamator la o tensiune de alimentare alta decât cea nominală",
+    "Receptia la un volum audio foarte mare"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+    "answers": [
+     "operarea unei stații de radiocomunicații în alte benzi de frecvențe radio decât cele atribuite serviciului de amator",
+     "operarea unei stații de radioamator la marginea benzii de frecvență alocate",
+     "operarea unei stații de radioamator la o tensiune de alimentare alta decât cea nominală",
+     "Receptia la un volum audio foarte mare"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/14",
+   "number": 14,
+   "code": "02A3566",
+   "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+   "image": null,
+   "answers": [
+    "operarea stației de către persoane juridice",
+    "operarea stației sau permiterea operării stației de către persoane ce nu dețin ori le-a fost suspendată autorizația de radioamator;",
+    "operarea stației proprii în lipsa responsabilului de radioclub",
+    "organizarea concursurilor de stații de radioamatori pe benzile de frecvențe legal alocate în TNABF."
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+    "answers": [
+     "operarea stației de către persoane juridice",
+     "operarea stației sau permiterea operării stației de către persoane ce nu dețin ori le-a fost suspendată autorizația de radioamator;",
+     "operarea stației proprii în lipsa responsabilului de radioclub",
+     "organizarea concursurilor de stații de radioamatori pe benzile de frecvențe legal alocate în TNABF."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/15",
+   "number": 15,
+   "code": "04A3566",
+   "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+   "image": null,
+   "answers": [
+    "refuzul radioamatorului de a permite unui alt radioamator lucrul direct la stația lui",
+    "refuzul radioamatorului de a permite unui alt radioamator lucrul de la distanță la stația lui",
+    "refuzul radioamatorului de a se supune controlului sau obstructionarea efectuarii controlului de către personalul de control al ANCOM, împuternicit în acest scop.",
+    "lipsa de la domiciliu a radioamatorului"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+    "answers": [
+     "refuzul radioamatorului de a permite unui alt radioamator lucrul direct la stația lui",
+     "refuzul radioamatorului de a permite unui alt radioamator lucrul de la distanță la stația lui",
+     "refuzul radioamatorului de a se supune controlului sau obstructionarea efectuarii controlului de către personalul de control al ANCOM, împuternicit în acest scop.",
+     "lipsa de la domiciliu a radioamatorului"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/16",
+   "number": 16,
+   "code": "01A3568",
+   "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+   "image": null,
+   "answers": [
+    "nerespectarea obligației de a transmite complet și corect indicativele de apel în conformitate cu actele normative în vigoare;",
+    "nerespectarea parametrilor de emisie ai legăturilor radio efectuate, în mod direct sau de la distanță, indiferent de stația de la care lucrează radioamatorul: a sa proprie, de radioclub, deținută de o altă persoană sau pusă la dispoziție către un alt radioamator;",
+    "transmiterea de date și informații care nu au legătură cu activitatea de radioamator",
+    "Toate celelalte trei opțiuni sunt corecte"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni, următoarele fapte:",
+    "answers": [
+     "nerespectarea obligației de a transmite complet și corect indicativele de apel în conformitate cu actele normative în vigoare;",
+     "nerespectarea parametrilor de emisie ai legăturilor radio efectuate, în mod direct sau de la distanță, indiferent de stația de la care lucrează radioamatorul: a sa proprie, de radioclub, deținută de o altă persoană sau pusă la dispoziție către un alt radioamator;",
+     "transmiterea de date și informații care nu au legătură cu activitatea de radioamator",
+     "Toate celelalte trei opțiuni sunt corecte"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/17",
+   "number": 17,
+   "code": "01A3561",
+   "question": "Ce înseamnă sintagma \"Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni\"?",
+   "image": null,
+   "answers": [
+    "În Codul Penal există o serie de infracțiuni care au la baza contravenții. Factori ca modul de săvârșire, scopul final, premeditarea pot schimba încadrarea de la contravențional la penal, în condițiile legii.",
+    "Așa se formulează în lege",
+    "Toate faptele sanctionabile pentru radioamatori sunt contravenții, nu infracțiuni",
+    "Înseamnă că rămâne la latitudinea judecătorului unde încadrează, în funcție de procesul verbal de constatare"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "În Codul Penal există o serie de infracțiuni care au la bază fapte de transmitere de informații către persoane care nu au calitatea de a le primi;\nSau alt exemplu tras de par: Obstrucționarea controlului stație de către personalul ANCOM(contravenție) pentru că în stație sunt ascunse droguri(infracțiune)\n(inspirat din YO3HJV: http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2019",
+   "html": {
+    "question": "Ce înseamnă sintagma \"Constituie contravenții, în măsura în care nu sunt săvârșite în astfel de condiții încât să fie considerate potrivit legii penale infracțiuni\"?",
+    "answers": [
+     "În Codul Penal există o serie de infracțiuni care au la baza contravenții. Factori ca modul de săvârșire, scopul final, premeditarea pot schimba încadrarea de la contravențional la penal, în condițiile legii.",
+     "Așa se formulează în lege",
+     "Toate faptele sanctionabile pentru radioamatori sunt contravenții, nu infracțiuni",
+     "Înseamnă că rămâne la latitudinea judecătorului unde încadrează, în funcție de procesul verbal de constatare"
+    ],
+    "explanation": "În Codul Penal există o serie de infracțiuni care au la bază fapte de transmitere de informații către persoane care nu au calitatea de a le primi;<br>Sau alt exemplu tras de par: Obstrucționarea controlului stație de către personalul ANCOM(contravenție) pentru că în stație sunt ascunse droguri(infracțiune)<br>(inspirat din YO3HJV: http://yo3hjv.blogspot.com/2019/01/legea-nr-3562018-privind-unele-masuri.html)"
+   }
+  },
+  {
+   "id": "sanctiuni/18",
+   "number": 18,
+   "code": "01A356a",
+   "question": "Cine face constatarea contravențiilor și aplicarea sancțiunilor prevăzute de lege în domeniul radiocomunicațiilor de amator?",
+   "image": null,
+   "answers": [
+    "personalul de control din cadrul ANCOM.",
+    "Poliția Română ca organ constatator",
+    "personalul de control din cadrul ISU, împuternicit în acest scop prin decizie a președintelui.",
+    "Federația Română de Radioamatorism"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cine face constatarea contravențiilor și aplicarea sancțiunilor prevăzute de lege în domeniul radiocomunicațiilor de amator?",
+    "answers": [
+     "personalul de control din cadrul ANCOM.",
+     "Poliția Română ca organ constatator",
+     "personalul de control din cadrul ISU, împuternicit în acest scop prin decizie a președintelui.",
+     "Federația Română de Radioamatorism"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/19",
+   "number": 19,
+   "code": "02A3568",
+   "question": "Conform legii 356 din 2018 privind stabilirea și sancționarea contravențiilor în domeniul operării stațiilor de radiocomunicații, este infracțiune faptul de a emite în benzile de radioamator fără indicativ?",
+   "image": null,
+   "answers": [
+    "nu, este o contravenție, dacă împreună cu alte condiții agravante nu întrunește condiții care încalcă legea penală, devenind infracțiune.",
+    "da, dacă transmisia fără indicativ este făcută de o persoană care nu are autorizație de radioamator.",
+    "nu, dacă se respectă în rest procedurile de apel",
+    "nu, dacă emisia se face între benzile de radioamatori"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN 2014, rev. 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Conform legii 356 din 2018 privind stabilirea și sancționarea contravențiilor în domeniul operării stațiilor de radiocomunicații, este infracțiune faptul de a emite în benzile de radioamator fără indicativ?",
+    "answers": [
+     "nu, este o contravenție, dacă împreună cu alte condiții agravante nu întrunește condiții care încalcă legea penală, devenind infracțiune.",
+     "da, dacă transmisia fără indicativ este făcută de o persoană care nu are autorizație de radioamator.",
+     "nu, dacă se respectă în rest procedurile de apel",
+     "nu, dacă emisia se face între benzile de radioamatori"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/20",
+   "number": 20,
+   "code": "01C3569",
+   "question": "Care este cuantumul amenzii pentru operarea unei stații de radioamator în alte benzi de frecvențe radio decât cele atribuite serviciului de amator?",
+   "image": null,
+   "answers": [
+    "de la 2500 la 7000lei",
+    "de la 2000 la 5500 lei sau avertisment",
+    "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Care este cuantumul amenzii pentru operarea unei stații de radioamator în alte benzi de frecvențe radio decât cele atribuite serviciului de amator?",
+    "answers": [
+     "de la 2500 la 7000lei",
+     "de la 2000 la 5500 lei sau avertisment",
+     "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/21",
+   "number": 21,
+   "code": "02C3569",
+   "question": "Care este cuantumul amenzii pentru operarea stației de către persoane ce nu dețin ori le-a fost suspendată autorizația de radioamator?",
+   "image": null,
+   "answers": [
+    "de la 2500 la 7000lei",
+    "de la 2000 la 5500 lei sau avertisment",
+    "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Care este cuantumul amenzii pentru operarea stației de către persoane ce nu dețin ori le-a fost suspendată autorizația de radioamator?",
+    "answers": [
+     "de la 2500 la 7000lei",
+     "de la 2000 la 5500 lei sau avertisment",
+     "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/22",
+   "number": 22,
+   "code": "03C3569",
+   "question": "Cât este amenda dată pentru refuzul radioamatorului de a se supune controlului sau obstrucționarea efectuării controlului de către personalul de control al ANCOM, împuternicit în acest scop?",
+   "image": null,
+   "answers": [
+    "de la 2500 la 7000lei",
+    "de la 2000 la 5500 lei sau avertisment",
+    "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cât este amenda dată pentru refuzul radioamatorului de a se supune controlului sau obstrucționarea efectuării controlului de către personalul de control al ANCOM, împuternicit în acest scop?",
+    "answers": [
+     "de la 2500 la 7000lei",
+     "de la 2000 la 5500 lei sau avertisment",
+     "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "sanctiuni/23",
+   "number": 23,
+   "code": "04C3569",
+   "question": "Care este cuantumul amenzii pentru fapta de a nu transmite corect și complet indicativele de apel?",
+   "image": null,
+   "answers": [
+    "de la 500 la 5000 lei",
+    "de la 2000 la 5500 lei sau avertisment",
+    "de la 4 la 6 puncte-amendă sau avertisment(1 punct-amendă = 10% din salariul mediu pe economie)",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art. 8, (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Care este cuantumul amenzii pentru fapta de a nu transmite corect și complet indicativele de apel?",
+    "answers": [
+     "de la 500 la 5000 lei",
+     "de la 2000 la 5500 lei sau avertisment",
+     "de la 4 la 6 puncte-amendă sau avertisment(1 punct-amendă = 10% din salariul mediu pe economie)",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": "Art. 8, (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/24",
+   "number": 24,
+   "code": "05C3569",
+   "question": "Cât este amenda dată pentru transmitere de date și informații ce nu au legătură cu activitatea de radioamator ori care au caracter comercial sau a mesajelor care conțin cuvinte sau expresii indecente sau insultătoare?",
+   "image": null,
+   "answers": [
+    "de la 500 la 5000 lei",
+    "de la 2000 la 5500 lei sau avertisment",
+    "de la 4 la 6 puncte-amendă sau avertisment(1 punct-amendă = 10% din salariul mediu pe economie)",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Obligația: Art 4. (2) c) să nu transmită date și informații ce nu au legătură cu activitatea de radioamator ori care au caracter comercial sau a mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;\nContravenția: Art 8. (1) c) nerespectarea de către radioamator a obligației prevăzute la art. 4 alin. (2) lit. c);\nSancțiunea aplicată: Art 9. (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Cât este amenda dată pentru  transmitere de date și informații ce nu au legătură cu activitatea de radioamator ori care au caracter comercial sau a mesajelor care conțin cuvinte sau expresii indecente sau insultătoare?",
+    "answers": [
+     "de la 500 la 5000 lei",
+     "de la 2000 la 5500 lei sau avertisment",
+     "de la 4 la 6 puncte-amendă sau avertisment(1 punct-amendă = 10% din salariul mediu pe economie)",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": "Obligația: Art 4. (2) c) să nu transmită date și informații ce nu au legătură cu activitatea de radioamator ori care au caracter comercial sau a mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;<br>Contravenția: Art 8. (1) c) nerespectarea de către radioamator a obligației prevăzute la art. 4 alin. (2) lit. c);<br>Sancțiunea aplicată: Art 9. (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/25",
+   "number": 25,
+   "code": "06C3569",
+   "question": "Care este cuantumul amenzii pentru interceptarea mesajelor transmise de operatori ce aparțin altor servicii de radiocomunicații decât cel de amator?",
+   "image": null,
+   "answers": [
+    "de la 500 la 5000 lei",
+    "de la 2000 la 5500 lei sau avertisment",
+    "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art. 8, (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Care este cuantumul amenzii pentru interceptarea mesajelor transmise de operatori ce aparțin altor servicii de radiocomunicații decât cel de amator?",
+    "answers": [
+     "de la 500 la 5000 lei",
+     "de la 2000 la 5500 lei sau avertisment",
+     "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": "Art. 8, (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/26",
+   "number": 26,
+   "code": "07C3569",
+   "question": "Care este amenda pentru un radioamator autorizat care utilizează stația deținută de altcineva, fără acordul scris al acestuia.",
+   "image": null,
+   "answers": [
+    "de la 500 la 5000 lei",
+    "de la 2000 la 5500 lei",
+    "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art. 8, (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Care este amenda pentru un radioamator autorizat care utilizează stația deținută de altcineva, fără acordul scris al acestuia.",
+    "answers": [
+     "de la 500 la 5000 lei",
+     "de la 2000 la 5500 lei",
+     "de la 4 la 6 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": "Art. 8, (3) a) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. a), c), d) și f), cu amendă de la 500 lei la 5.000 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/27",
+   "number": 27,
+   "code": "08C3569",
+   "question": "Care este mărimea amenzii pentru nerespectarea parametrilor de emisie ai legăturilor radio efectuate, în mod direct sau de la distanță?",
+   "image": null,
+   "answers": [
+    "de la 2000 la 5500 lei",
+    "de la 500 la 5000 lei",
+    "de la 100 la 500 lei",
+    "de la 1000 la 1999 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art. 8, (3) b) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. b) și i), precum și în cazul contravențiilor stabilite în art. 8 alin. (2) lit. b), cu amendă de la 2.000 lei la 5.500 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Care este mărimea amenzii pentru nerespectarea parametrilor de emisie ai legăturilor radio efectuate, în mod direct sau de la distanță?",
+    "answers": [
+     "de la 2000 la 5500 lei",
+     "de la 500 la 5000 lei",
+     "de la 100 la 500 lei",
+     "de la 1000 la 1999 lei"
+    ],
+    "explanation": "Art. 8, (3) b) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. b) și i), precum și în cazul contravențiilor stabilite în art. 8 alin. (2) lit. b), cu amendă de la 2.000 lei la 5.500 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/28",
+   "number": 28,
+   "code": "09C3569",
+   "question": "Care este cuantumul amenzii pentru reglarea emițătorului cu intrarea în emisie în antenă, fără folosirea antenei neradiante(dummy load)?",
+   "image": null,
+   "answers": [
+    "de la 2000 la 5500 lei",
+    "de la 500 la 1000 lei sau avertisment",
+    "de la 300 la 1000 lei",
+    "de la 1000 la 3000 lei"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art. 8, (3) b) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. b) și i), precum și în cazul contravențiilor stabilite în art. 8 alin. (2) lit. b), cu amendă de la 2.000 lei la 5.500 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Care este cuantumul amenzii pentru reglarea emițătorului cu intrarea în emisie în antenă, fără folosirea antenei neradiante(dummy load)?",
+    "answers": [
+     "de la 2000 la 5500 lei",
+     "de la 500 la 1000 lei sau avertisment",
+     "de la 300 la 1000 lei",
+     "de la 1000 la 3000 lei"
+    ],
+    "explanation": "Art. 8, (3) b) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. b) și i), precum și în cazul contravențiilor stabilite în art. 8 alin. (2) lit. b), cu amendă de la 2.000 lei la 5.500 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/29",
+   "number": 29,
+   "code": "10C3569",
+   "question": "Cu cât se amendează lipsa menționării, în jurnalul de trafic, a identității radioamatorilor care au utilizat stația de radioclub sau stația radio deținută, în mod direct sau de la distanță, precum și lipsa parametrilor tehnici ai legăturilor radio efectuate?",
+   "image": null,
+   "answers": [
+    "de la 2000 la 5500 lei",
+    "de la 250 la 550 lei",
+    "de la 150 la 500 lei",
+    "de la 5 la 7 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art. 8, (3) b) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. b) și i), precum și în cazul contravențiilor stabilite în art. 8 alin. (2) lit. b), cu amendă de la 2.000 lei la 5.500 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Cu cât se amendează lipsa menționării, în jurnalul de trafic, a identității radioamatorilor care au utilizat stația de radioclub sau stația radio deținută, în mod direct sau de la distanță, precum și lipsa parametrilor tehnici ai legăturilor radio efectuate?",
+    "answers": [
+     "de la 2000 la 5500 lei",
+     "de la 250 la 550 lei",
+     "de la 150 la 500 lei",
+     "de la 5 la 7 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+    ],
+    "explanation": "Art. 8, (3) b) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. b) și i), precum și în cazul contravențiilor stabilite în art. 8 alin. (2) lit. b), cu amendă de la 2.000 lei la 5.500 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/30",
+   "number": 30,
+   "code": "11C3569",
+   "question": "Care este cuantumul amenzii contravenționale aplicate pentru realizarea de legături radio cu operatori ce aparțin altor servicii de radiocomunicații sau cu radioamatori, respectiv operatori, care nu își comunică identitatea prin transmiterea indicativului de apel?",
+   "image": null,
+   "answers": [
+    "de la 1.500 lei la 2.500 lei",
+    "de la 50 la 150 lei",
+    "de la 150 la 500 lei",
+    "de la 3 la 5 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art 8, (3) c) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. e), g) și h), cu amendă de la 1.500 lei la 2.500 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Care este cuantumul amenzii contravenționale aplicate pentru realizarea de legături radio cu operatori ce aparțin altor servicii de radiocomunicații sau cu radioamatori, respectiv operatori, care nu își comunică identitatea prin transmiterea indicativului de apel?",
+    "answers": [
+     "de la 1.500 lei la 2.500 lei",
+     "de la 50 la 150 lei",
+     "de la 150 la 500 lei",
+     "de la 3 la 5 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+    ],
+    "explanation": "Art 8, (3) c) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. e), g) și h), cu amendă de la 1.500 lei la 2.500 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/31",
+   "number": 31,
+   "code": "12C3569",
+   "question": "Cât este amenda pentru radioamatorul care nu poate face dovada menținerii pe durata unui an a unei copii audio a traficului realizat de la distanță pe stația sa radio?",
+   "image": null,
+   "answers": [
+    "de la 1.500 lei la 2.500 lei",
+    "de la 50 la 150 lei",
+    "de la 150 la 500 lei",
+    "de la 3 la 5 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art 8, (3) c) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. e), g) și h), cu amendă de la 1.500 lei la 2.500 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Cât este amenda pentru radioamatorul care nu poate face dovada menținerii pe durata unui an a unei copii audio a traficului realizat de la distanță pe stația sa radio?",
+    "answers": [
+     "de la 1.500 lei la 2.500 lei",
+     "de la 50 la 150 lei",
+     "de la 150 la 500 lei",
+     "de la 3 la 5 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+    ],
+    "explanation": "Art 8, (3) c) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. e), g) și h), cu amendă de la 1.500 lei la 2.500 lei;"
+   }
+  },
+  {
+   "id": "sanctiuni/32",
+   "number": 32,
+   "code": "13C3569",
+   "question": "Care e amenda pentru lipsa unui jurnal de trafic întocmit corespunzător, conform specificațiilor în vigoare?",
+   "image": null,
+   "answers": [
+    "de la 1.500 lei la 2.500 lei",
+    "de la 50 la 150 lei",
+    "de la 150 la 500 lei",
+    "de la 3 la 5 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2019",
+   "explanation": "Art 8, (3) c) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. e), g) și h), cu amendă de la 1.500 lei la 2.500 lei;",
+   "explanation_image": null,
+   "explanation_author": "Legea 356/2018",
+   "html": {
+    "question": "Care e amenda pentru lipsa unui jurnal de trafic întocmit corespunzător, conform specificațiilor în vigoare?",
+    "answers": [
+     "de la 1.500 lei la 2.500 lei",
+     "de la 50 la 150 lei",
+     "de la 150 la 500 lei",
+     "de la 3 la 5 puncte-amendă(1 punct-amendă = 10% din salariul mediu pe economie)"
+    ],
+    "explanation": "Art 8, (3) c) în cazul contravențiilor prevăzute la art. 8 alin. (1) lit. e), g) și h), cu amendă de la 1.500 lei la 2.500 lei;"
+   }
+  }
+ ]
+}

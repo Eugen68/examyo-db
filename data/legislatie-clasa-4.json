@@ -1,0 +1,1814 @@
+{
+ "slug": "legislatie-clasa-4",
+ "source_file": "db_legis4",
+ "category": "legislatie",
+ "classes": [
+  "IV"
+ ],
+ "title": "Legislație, clasa a IV-a v.3.33",
+ "version": "3.33",
+ "curriculum": "prog_CEPT_Entry_reg",
+ "declared_count": 62,
+ "count": 62,
+ "with_explanation": 25,
+ "questions": [
+  {
+   "id": "legislatie-clasa-4/0",
+   "number": 0,
+   "code": "01A29a",
+   "question": "Este adevărat că ANCOM poate determina cu precizie locația geografică a stațiilor radio ilegale și clandestine?",
+   "image": null,
+   "answers": [
+    "Da, este adevărat, tehnicile de RDF(radio direction finding) - goniometrie sunt folosite de la începuturile radioului, iar acum tehnicile sunt mult mai evoluate",
+    "Nu are cum, se poate determina orașul, însă mai precis nu se poate - în oraș postul radio se aude la fel de bine peste tot",
+    "Nimeni nu a văzut unda electromagnetică",
+    "Precizia determinării depinde de cât de rău este câinele din curte"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Brașov, 2007(rev. 2018)",
+   "explanation": "ANCOM are stații fixe de RDF și stații mobile. Stațiile fixe sunt distribuite în teritoriu, sunt semiautomate și folosindu-le, personalul ANCOM poate localiza destul de precis locația emițătorului. Stația mobilă de RDF este instalată într-un automobil și se folosește la poziționarea foarte exactă a emițătorului poziționat de stațiile fixe, cât și la înregistrarea de probe.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2010",
+   "html": {
+    "question": "Este adevărat că ANCOM poate determina cu precizie locația geografică a stațiilor radio ilegale și clandestine?",
+    "answers": [
+     "Da, este adevărat, tehnicile de RDF(radio direction finding) - goniometrie sunt folosite de la începuturile radioului, iar acum tehnicile sunt mult mai evoluate",
+     "Nu are cum, se poate determina orașul, însă mai precis nu se poate - în oraș postul radio se aude la fel de bine peste tot",
+     "Nimeni nu a văzut unda electromagnetică",
+     "Precizia determinării depinde de cât de rău este câinele din curte"
+    ],
+    "explanation": "ANCOM are stații fixe de RDF și stații mobile. Stațiile fixe sunt distribuite în teritoriu, sunt semiautomate și folosindu-le, personalul ANCOM poate localiza destul de precis locația emițătorului. Stația mobilă de RDF este instalată într-un automobil și se folosește la poziționarea foarte exactă a emițătorului poziționat de stațiile fixe, cât și la înregistrarea de probe."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/1",
+   "number": 1,
+   "code": "01A287",
+   "question": "De ce limbajul indecent sau obscen este interzis în serviciul de radioamator?",
+   "image": null,
+   "answers": [
+    "Pentru că pot insulta sau jigni radioamatori",
+    "Fiindcă există copii care ascultă comunicațiile de radioamatori cu diverse tipuri de radioreceptoare, sau difuzorul se aude și în casă de către familie.",
+    "Fiindcă acest tip de limbaj este interzis de regulament",
+    "Toate celelalte trei răspunsuri sunt corecte"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN - adaptare după eham.net, 2007(rev. 2018)",
+   "explanation": "19) Radioamatorii pot stabili legături radio numai cu alți radioamatori și numai în cadrul benzilor de frecvențe radio atribuite, conform TNABF, serviciului de amator.\nÎn cadrul legăturilor radio din serviciul de amator nu sunt permise: a) transmiterea mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2018",
+   "html": {
+    "question": "De ce limbajul indecent sau obscen este interzis în serviciul de radioamator?",
+    "answers": [
+     "Pentru că pot insulta sau jigni radioamatori",
+     "Fiindcă există copii care ascultă comunicațiile de radioamatori cu diverse tipuri de radioreceptoare, sau difuzorul se aude și în casă de către familie.",
+     "Fiindcă acest tip de limbaj este interzis de regulament",
+     "Toate celelalte trei răspunsuri sunt corecte"
+    ],
+    "explanation": "19) Radioamatorii pot stabili legături radio numai cu alți radioamatori și numai în cadrul benzilor de frecvențe radio atribuite, conform TNABF, serviciului de amator.<br>În cadrul legăturilor radio din serviciul de amator nu sunt permise: a) transmiterea mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/2",
+   "number": 2,
+   "code": "01A285",
+   "question": "De ce transmiterea pe frecvența poliției ca o 'glumă', este de fapt o contravenție?",
+   "image": null,
+   "answers": [
+    "Deranjează pe toți cei care ascultă",
+    "Poate întrerupe comunicații ale poliției care ar putea fi trafic de urgentă",
+    "Este lipsit de bun simț să comunici cu ne-amatori, chiar și sub formă de glumă",
+    "Este un obicei nelalocul lui să transmiți în afara benzilor de radioamatori"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN - adaptare după eham.net, 2007, rev. 2018",
+   "explanation": "Sunt interzise următoarele: b) perturbarea în mod voit și cu rea intenție a altor transmisii radio;\n19) Radioamatorii pot stabili legături radio numai cu alți radioamatori și numai în cadrul benzilor de frecvențe radio atribuite, conform TNABF, serviciului de amator.\n(2) Legăturile cu stațiile aparținând altor servicii, precum și cu cele care nu își semnalează identitatea prin transmiterea indicativului de apel sunt interzise.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2018",
+   "html": {
+    "question": "De ce transmiterea pe frecvența poliției ca o 'glumă', este de fapt o contravenție?",
+    "answers": [
+     "Deranjează pe toți cei care ascultă",
+     "Poate întrerupe comunicații ale poliției care ar putea fi trafic de urgentă",
+     "Este lipsit de bun simț să comunici cu ne-amatori, chiar și sub formă de glumă",
+     "Este un obicei nelalocul lui să transmiți în afara benzilor de radioamatori"
+    ],
+    "explanation": "Sunt interzise următoarele: b) perturbarea în mod voit și cu rea intenție a altor transmisii radio;<br>19) Radioamatorii pot stabili legături radio numai cu alți radioamatori și numai în cadrul benzilor de frecvențe radio atribuite, conform TNABF, serviciului de amator.<br>(2) Legăturile cu stațiile aparținând altor servicii, precum și cu cele care nu își semnalează identitatea prin transmiterea indicativului de apel sunt interzise."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/3",
+   "number": 3,
+   "code": "01A282",
+   "question": "Unde vei găsi o listă detaliată cu permisiunile de operare?",
+   "image": null,
+   "answers": [
+    "În Anexa 25",
+    "În Anexele de la Decizia ANCOM 245/2017",
+    "În instrucțiunile de operare ale stației",
+    "În legea telecomunicațiilor"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN - adaptare după eham.net, 2007(rev. 2010)",
+   "explanation": "Prin permisiuni de operare înțelegem benzile de frecvențe, modurile de lucru, puterile alocate fiecărei clase.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2011",
+   "html": {
+    "question": "Unde vei găsi o listă detaliată cu permisiunile de operare?",
+    "answers": [
+     "În Anexa 25",
+     "În Anexele de la Decizia ANCOM 245/2017",
+     "În instrucțiunile de operare ale stației",
+     "În legea telecomunicațiilor"
+    ],
+    "explanation": "Prin permisiuni de operare înțelegem benzile de frecvențe, modurile de lucru, puterile alocate fiecărei clase."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/4",
+   "number": 4,
+   "code": "02A285",
+   "question": "Este permis radioamatorilor să asculte traficul radio de pe alte frecvențe decât cele alocate serviciului de amator?",
+   "image": null,
+   "answers": [
+    "Nu, interceptarea intenționată a altor servicii de radiocomunicație este interzisă, excepție fac doar situațiile de dezastre naturale, situații care primejduiesc vieți omenești",
+    "Da, atât timp cât nu se emite se poate fasculta orice frecvență",
+    "Nu, ascultarea frecvențelor poliției și a armatei este strict interzisă în România",
+    "Da, dacă echipamentul folosit permite acest lucru"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO3HAF, București, 2005 - rev.2018",
+   "explanation": "Chiar dacă ascultarea frecvențelor poliției și a armatei este strict interzisă în România, nu acesta este răspunsul complet, nu sunt singurele 'alte frecvențe' din enunțul întrebării.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2010",
+   "html": {
+    "question": "Este permis radioamatorilor să asculte traficul radio de pe alte frecvențe decât cele alocate serviciului de amator?",
+    "answers": [
+     "Nu, interceptarea intenționată a altor servicii de radiocomunicație este interzisă, excepție fac doar situațiile de dezastre naturale, situații care primejduiesc vieți omenești",
+     "Da, atât timp cât nu se emite se poate fasculta orice frecvență",
+     "Nu, ascultarea frecvențelor poliției și a armatei este strict interzisă în România",
+     "Da, dacă echipamentul folosit permite acest lucru"
+    ],
+    "explanation": "Chiar dacă ascultarea frecvențelor poliției și a armatei este strict interzisă în România, nu acesta este răspunsul complet, nu sunt singurele 'alte frecvențe' din enunțul întrebării."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/5",
+   "number": 5,
+   "code": "03A285",
+   "question": "Este interzisă transmiterea mesajelor care:",
+   "image": null,
+   "answers": [
+    "Conțin expresii indecente sau insultătoare",
+    "Conțin mutări de la partide de șah (ex. Na1vPb2) deoarece pot fi interpretate ca fiind coduri secrete",
+    "Conțin clasamente din concursuri de radioamator",
+    "Conțin indicative ale unor stații de club fără ca acestea să fie prezente pe frecvență"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005 (rev. 2018)",
+   "explanation": "nu sunt permise: a) transmiterea mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2018",
+   "html": {
+    "question": "Este interzisă transmiterea mesajelor care:",
+    "answers": [
+     "Conțin expresii indecente sau insultătoare",
+     "Conțin mutări de la partide de șah (ex. Na1vPb2) deoarece pot fi interpretate ca fiind coduri secrete",
+     "Conțin clasamente din concursuri de radioamator",
+     "Conțin indicative ale unor stații de club fără ca acestea să fie prezente pe frecvență"
+    ],
+    "explanation": "nu sunt permise: a) transmiterea mesajelor care conțin cuvinte sau expresii indecente sau insultătoare;"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/6",
+   "number": 6,
+   "code": "01A286",
+   "question": "Este permisă folosirea emisiunilor cu modulație vocala criptată?",
+   "image": null,
+   "answers": [
+    "Nu, nu se permite nici un fel de criptare, codare sau modulare, alta decât cele permise în Regulamentul serviciului de Amator",
+    "Da, cât timp cheia este fixă și publică, astfel incât ANCOM să poată controla QSO-ul",
+    "Da, doar pentru experimente, și având cheia de criptare publică",
+    "Da, doar pentru experimente, și folosind doar unica cheie publică dată de ANCOM"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev. 2018)",
+   "explanation": "Radioamatorismul fiind un serviciu deschis experimentării, nu se poate emite într-un fel în care cineva să nu poată recepționa. Este foarte important mai ales ca pentru trafic de urgență să se folosească un mod comun, larg folosit, altfel apelul nu este inteligibil;\nLegal, în anexele la Decizie este dată lista de modulații și moduri(A1A, J3E samd.) și nici unul din moduri nu e cu criptare.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2009",
+   "html": {
+    "question": "Este permisă folosirea emisiunilor cu modulație vocala criptată?",
+    "answers": [
+     "Nu, nu se permite nici un fel de criptare, codare sau modulare, alta decât cele permise în Regulamentul serviciului de Amator",
+     "Da, cât timp cheia este fixă și publică, astfel incât ANCOM să poată controla QSO-ul",
+     "Da, doar pentru experimente, și având cheia de criptare publică",
+     "Da, doar pentru experimente, și folosind doar unica cheie publică dată de ANCOM"
+    ],
+    "explanation": "Radioamatorismul fiind un serviciu deschis experimentării, nu se poate emite într-un fel în care cineva să nu poată recepționa. Este foarte important mai ales ca pentru trafic de urgență să se folosească un mod comun, larg folosit, altfel apelul nu este inteligibil;<br>Legal, în anexele la Decizie este dată lista de modulații și moduri(A1A, J3E samd.) și nici unul din moduri nu e cu criptare."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/7",
+   "number": 7,
+   "code": "02A286",
+   "question": "Cum poate testa un radioamator un nou tip de modulație încă nepermis de Regulament, însă care va fi permis probabil în curand? Radioamatorul are două echipamente ce folosesc acest nou mod.",
+   "image": null,
+   "answers": [
+    "Nu se emite în eter, ci într-un ghid de undă/coax neradiant, la capetele căruia se află echipamentele respective",
+    "Poate emite cu puteri de până la 100 mW, pentru a nu fi recepționat dincolo de raza localității",
+    "Poate emite, însă cu puteri mici de pana la 100 mW, cu pauză de minimum 10 min. între emisiuni pentru a fi sigur că nu interferează",
+    "Poate emite, pentru că până vine cardul QSL, acest tip de modulație va fi permis."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev. 2018)",
+   "explanation": "Dacă e neradiantă, atunci nu e radio-emisie, și atunci nu perturbă pe nimeni.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2010",
+   "html": {
+    "question": "Cum poate testa un radioamator un nou tip de modulație încă nepermis de Regulament, însă care va fi permis probabil în curand? Radioamatorul are două echipamente ce folosesc acest nou mod.",
+    "answers": [
+     "Nu se emite în eter, ci într-un ghid de undă/coax neradiant, la capetele căruia se află echipamentele respective",
+     "Poate emite cu puteri de până la 100 mW, pentru a nu fi recepționat dincolo de raza localității",
+     "Poate emite, însă cu puteri mici de pana la 100 mW, cu pauză de minimum 10 min. între emisiuni pentru a fi sigur că nu interferează",
+     "Poate emite, pentru că până vine cardul QSL, acest tip de modulație va fi permis."
+    ],
+    "explanation": "Dacă e neradiantă, atunci nu e radio-emisie, și atunci nu perturbă pe nimeni."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/8",
+   "number": 8,
+   "code": "02A287",
+   "question": "Cum poate testa un radioamator un emițător reparat de curând, fără să perturbe?",
+   "image": null,
+   "answers": [
+    "Nu se emite în antenă reală, ci într-o antenă neradiantă \"dummy load\"",
+    "Emite la început cu putere mică, apoi crește succesiv puterea cerând tot timpul control RST și menținând emisia cât mai scurtă",
+    "Poate emite, însă cu puteri mici de până la 100 mW, cu pauză de minimum 10 min. între emisiuni pentru a fi sigur că nu interferează",
+    "Emite cât mai scurt cu putință și își controlează emisia cu un alt receptor, de calitate bună, verificând în jurul benzii de emisie dacă are armonici."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2014",
+   "explanation": "Dacă e neradiantă, atunci nu e radio-emisie, și atunci nu perturbă pe nimeni.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2014",
+   "html": {
+    "question": "Cum poate testa un radioamator un emițător reparat de curând, fără să perturbe?",
+    "answers": [
+     "Nu se emite în antenă reală, ci într-o antenă neradiantă \"dummy load\"",
+     "Emite la început cu putere mică, apoi crește succesiv puterea cerând tot timpul control RST și menținând emisia cât mai scurtă",
+     "Poate emite, însă cu puteri mici de până la 100 mW, cu pauză de minimum 10 min. între emisiuni pentru a fi sigur că nu interferează",
+     "Emite cât mai scurt cu putință și își controlează emisia cu un alt receptor, de calitate bună, verificând în jurul benzii de emisie dacă are armonici."
+    ],
+    "explanation": "Dacă e neradiantă, atunci nu e radio-emisie, și atunci nu perturbă pe nimeni."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/9",
+   "number": 9,
+   "code": "02A29a",
+   "question": "Cine are dreptul să efectueze controlul stației și al parametrilor tehnici în exploatare?",
+   "image": null,
+   "answers": [
+    "Autoritatea Națională pentru Administrare și Reglementare în Comunicații(ANCOM)",
+    "Inspectoratul General al Poliției (IGP)",
+    "Serviciul Transmisiuni Speciale (STS)",
+    "Serviciul Pază și Protecție (SPP)"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO3HAF, București, 2005 (rev. 2018)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cine are dreptul să efectueze controlul stației și al parametrilor tehnici în exploatare?",
+    "answers": [
+     "Autoritatea Națională pentru Administrare și Reglementare în Comunicații(ANCOM)",
+     "Inspectoratul General al Poliției (IGP)",
+     "Serviciul Transmisiuni Speciale (STS)",
+     "Serviciul Pază și Protecție (SPP)"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/10",
+   "number": 10,
+   "code": "01B284",
+   "question": "Stațiile de radioamator pot aparține persoanelor fizice sau persoanelor juridice(firme, ONG, organizații)?",
+   "image": null,
+   "answers": [
+    "Doar persoanele juridice pot deține stații de radioamatori",
+    "Stațiile individuale aparțin persoanelor fizice iar stațiile de radioclub aparțin doar persoanelor juridice.",
+    "Doar persoanele fizice pot avea stație de radioamatori",
+    "Organizațiile dețin stațiile de radioamator ale membrilor"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Brașov 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Stațiile de radioamator pot aparține persoanelor fizice sau persoanelor juridice(firme, ONG, organizații)?",
+    "answers": [
+     "Doar persoanele juridice pot deține stații de radioamatori",
+     "Stațiile individuale aparțin persoanelor fizice iar stațiile de radioclub aparțin doar persoanelor juridice.",
+     "Doar persoanele fizice pot avea stație de radioamatori",
+     "Organizațiile dețin stațiile de radioamator ale membrilor"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/11",
+   "number": 11,
+   "code": "01A283",
+   "question": "Stațiile de radioclub din România au prima literă a sufixului:",
+   "image": null,
+   "answers": [
+    "Y",
+    "C",
+    "K",
+    "R"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004(rev.2018)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Stațiile de radioclub din România au prima literă a sufixului:",
+    "answers": [
+     "Y",
+     "C",
+     "K",
+     "R"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/12",
+   "number": 12,
+   "code": "02A282",
+   "question": "Ce clasă de autorizație trebuie să posede un responsabil de stație de club?",
+   "image": null,
+   "answers": [
+    "clasa a II-a",
+    "clasa I",
+    "clasa a II-a sau clasa I",
+    "clasa a III-a"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2018)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce clasă de autorizație trebuie să posede un responsabil de stație de club?",
+    "answers": [
+     "clasa a II-a",
+     "clasa I",
+     "clasa a II-a sau clasa I",
+     "clasa a III-a"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/13",
+   "number": 13,
+   "code": "01A298",
+   "question": "Ce trebuie să facă un radioamator la schimbarea numelui?",
+   "image": null,
+   "answers": [
+    "predă autorizația la radioclubul de care aparține",
+    "cere modificarea autorizației, anexând documente care justifică schimbarea numelui, precum și autorizația în original",
+    "nu are obligații",
+    "anunță în scris ANCOM"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2018)",
+   "explanation": "Se trimite formularul de eliberare/[modificare]/prelungire a autorizației de radioamator conform Art 32.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2018",
+   "html": {
+    "question": "Ce trebuie să facă un radioamator la schimbarea numelui?",
+    "answers": [
+     "predă autorizația la radioclubul de care aparține",
+     "cere modificarea autorizației, anexând documente care justifică schimbarea numelui, precum și autorizația în original",
+     "nu are obligații",
+     "anunță în scris ANCOM"
+    ],
+    "explanation": "Se trimite formularul de eliberare/[modificare]/prelungire a autorizației de radioamator conform  Art 32."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/14",
+   "number": 14,
+   "code": "03A282",
+   "question": "Câte clase au certificatele de radioamator în România?",
+   "image": null,
+   "answers": [
+    "Cl I, cl. II și Novice conform CEPT",
+    "A,B (tip HAREC)",
+    "I-a, avansat, începător, restrâns",
+    "cl. I, II, III, IV"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2018)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Câte clase au certificatele de radioamator în România?",
+    "answers": [
+     "Cl I, cl. II și Novice conform CEPT",
+     "A,B (tip HAREC)",
+     "I-a, avansat, începător, restrâns",
+     "cl. I, II, III, IV"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/15",
+   "number": 15,
+   "code": "01A281",
+   "question": "Semnalele de test emise în antenă nu pot depăși:",
+   "image": null,
+   "answers": [
+    "10 secunde",
+    "20 secunde",
+    "nu se specifică durata, însă trebuie să fie de o durată cât mai scurtă posibil.",
+    "30 secunde"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev. 2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Semnalele de test emise în antenă nu pot depăși:",
+    "answers": [
+     "10 secunde",
+     "20 secunde",
+     "nu se specifică durata, însă trebuie să fie de o durată cât mai scurtă posibil.",
+     "30 secunde"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/16",
+   "number": 16,
+   "code": "02A281",
+   "question": "Care e condiția de bază a semnalelor de test emise în antenă:",
+   "image": null,
+   "answers": [
+    "să nu perturbe legături radio existente",
+    "să nu depășească 15 secunde",
+    "să testeze emițătorul",
+    "puterea emisă în antenă să fie minimă"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Care e condiția de bază a semnalelor de test emise în antenă:",
+    "answers": [
+     "să nu perturbe legături radio existente",
+     "să nu depășească 15 secunde",
+     "să testeze emițătorul",
+     "puterea emisă în antenă să fie minimă"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/17",
+   "number": 17,
+   "code": "03A286",
+   "question": "În trafic se admit prescurtări la transmiterea indicativelor de apel?",
+   "image": null,
+   "answers": [
+    "da, cu aprobarea ANCOM",
+    "da, numai în concursuri cu aprobarea FRR",
+    "nu",
+    "doar în traficul de primejdie"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2018)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "În trafic se admit prescurtări la transmiterea indicativelor de apel?",
+    "answers": [
+     "da, cu aprobarea ANCOM",
+     "da, numai în concursuri cu aprobarea FRR",
+     "nu",
+     "doar în traficul de primejdie"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/18",
+   "number": 18,
+   "code": "01A288",
+   "question": "Cine reglementează activitatea de radioamator din România?",
+   "image": null,
+   "answers": [
+    "Ministerul Poștelor și Comunicațiilor",
+    "Autoritatea Națională pentru Administrare și Reglementare în Comunicații",
+    "Ministerul Transporturilor și Telecomunicațiilor",
+    "Ministerul Sportului"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cine reglementează activitatea de radioamator din România?",
+    "answers": [
+     "Ministerul Poștelor și Comunicațiilor",
+     "Autoritatea Națională pentru Administrare și Reglementare în Comunicații",
+     "Ministerul Transporturilor și Telecomunicațiilor",
+     "Ministerul Sportului"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/19",
+   "number": 19,
+   "code": "02A283",
+   "question": "Cine acordă și ține evidența indicativelor de apel ale stațiilor de amator?",
+   "image": null,
+   "answers": [
+    "Direcția de Poștă și Telecomunicații",
+    "Autoritatea Națională pentru Administrare și Reglementare în Comunicații",
+    "Federația Română de Radioamatorism",
+    "Comisia Națională Radio"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cine acordă și ține evidența indicativelor de apel ale stațiilor de amator?",
+    "answers": [
+     "Direcția de Poștă și Telecomunicații",
+     "Autoritatea Națională pentru Administrare și Reglementare în Comunicații",
+     "Federația Română de Radioamatorism",
+     "Comisia Națională Radio"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/20",
+   "number": 20,
+   "code": "04A282",
+   "question": "De câte categorii sunt stațiile de radioamator, în funcție de puterea emițătoarelor și în funcție de benzile de frecvențe pe care le pot folosi?",
+   "image": null,
+   "answers": [
+    "categoria I sau II",
+    "categoria I, II, III sau IV",
+    "categoria I",
+    "Clasa stației este clasa operatorului"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Brașov, 2018",
+   "explanation": "Cap.II, 1) în Anexa la Decizie",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2018",
+   "html": {
+    "question": "De câte categorii sunt stațiile de radioamator, în funcție de puterea emițătoarelor și în funcție de benzile de frecvențe pe care le pot folosi?",
+    "answers": [
+     "categoria I sau II",
+     "categoria I, II, III sau IV",
+     "categoria I",
+     "Clasa stației este clasa operatorului"
+    ],
+    "explanation": "Cap.II, 1) în Anexa la Decizie"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/21",
+   "number": 21,
+   "code": "05A282",
+   "question": "Ce clasă trebuie să aibă un radioamator autorizat pentru a opera o stație individuală de radioamator de categoria a III-a ?",
+   "image": null,
+   "answers": [
+    "clasa I",
+    "clasa I sau clasa II",
+    "I, II, sau III",
+    "clasa a III-a"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Brașov, 2014",
+   "explanation": "Art. 6, b) în Regulament",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2014",
+   "html": {
+    "question": "Ce clasă trebuie să aibă un radioamator autorizat pentru a opera o stație individuală de radioamator de categoria a III-a ?",
+    "answers": [
+     "clasa I",
+     "clasa I sau clasa II",
+     "I, II, sau III",
+     "clasa a III-a"
+    ],
+    "explanation": "Art. 6, b) în Regulament"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/22",
+   "number": 22,
+   "code": "03A281",
+   "question": "Ce domeniu de frecvențe corespunde benzii de 2 m alocate radioamatorilor în România?",
+   "image": null,
+   "answers": [
+    "144 - 146 MHz",
+    "143 - 144 MHz",
+    "432 - 447 MHz",
+    "430 - 432 MHz"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, Săcele, 2004(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce domeniu de frecvențe corespunde benzii de 2 m alocate radioamatorilor în România?",
+    "answers": [
+     "144 - 146 MHz",
+     "143 - 144 MHz",
+     "432 - 447 MHz",
+     "430 - 432 MHz"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/23",
+   "number": 23,
+   "code": "04A281",
+   "question": "Care dintre cele enumerate sunt o parte a scopurilor serviciului de radioamator?",
+   "image": null,
+   "answers": [
+    "De a proteja datele istorice și a ajuta publicul la înțelegerea istoriei radioului.",
+    "De a ajuta țările străine să-și îmbunătățească tehnicile de comunicare radio și a încuraja radioamatorii străini să viziteze România.",
+    "De a îmbunătăți tehnicile de desenare a schemelor radio și a mări numărul specialiștilor proiectanți.",
+    "De a spori numărul celor instruiți în radiotehnică și electronică și a contribui la promovarea spiritului de pace și prietenie, așa-numitul 'HAM spirit'."
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004(rev.2010)",
+   "explanation": "Din regulament: serviciul de amator - serviciul de radiocomunicații având ca scop autoinstruirea, intercomunicațiile și investigațiile tehnice efectuate de radioamatori, în condițiile legii, interesate de tehnica radiocomunicațiilor, numai în scop personal și fără nici un interes pecuniar;",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2010",
+   "html": {
+    "question": "Care dintre cele enumerate sunt o parte a scopurilor serviciului de radioamator?",
+    "answers": [
+     "De a proteja datele istorice și a ajuta publicul la înțelegerea istoriei radioului.",
+     "De a ajuta țările străine să-și îmbunătățească tehnicile de comunicare radio și a încuraja radioamatorii străini să viziteze România.",
+     "De a îmbunătăți tehnicile de desenare a schemelor radio și a mări numărul specialiștilor proiectanți.",
+     "De a spori numărul celor instruiți în radiotehnică și electronică și a contribui la promovarea spiritului de pace și prietenie, așa-numitul 'HAM spirit'."
+    ],
+    "explanation": "Din regulament: serviciul de amator - serviciul de radiocomunicații având ca scop autoinstruirea, intercomunicațiile și investigațiile tehnice efectuate de radioamatori, în condițiile legii, interesate de tehnica radiocomunicațiilor, numai în scop personal și fără nici un interes pecuniar;<br>"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/24",
+   "number": 24,
+   "code": "04A285",
+   "question": "Cine poate emite în benzile de radioamatori?",
+   "image": null,
+   "answers": [
+    "radioamatorii și serviciile de ambulanță, poliție și salvamont",
+    "radioamatorii autorizați și salvamontul",
+    "radioamatorii autorizați",
+    "radioamatorii autorizați și personalul ANCOM"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cine poate emite în benzile de radioamatori?",
+    "answers": [
+     "radioamatorii și serviciile de ambulanță, poliție și salvamont",
+     "radioamatorii autorizați  și salvamontul",
+     "radioamatorii autorizați",
+     "radioamatorii autorizați și personalul ANCOM"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/25",
+   "number": 25,
+   "code": "02A288",
+   "question": "Care este durata de valabilitate a autorizației individuale de radioamator?",
+   "image": null,
+   "answers": [
+    "5 ani",
+    "10 ani",
+    "15 ani",
+    "1 an"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Care este durata de valabilitate a autorizației individuale de radioamator?",
+    "answers": [
+     "5 ani",
+     "10 ani",
+     "15 ani",
+     "1 an"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/26",
+   "number": 26,
+   "code": "05A281",
+   "question": "Ce urmărește activitatea de radioamator?",
+   "image": null,
+   "answers": [
+    "Transmiterea de radiograme, contra cost",
+    "Difuzarea de muzică în FM",
+    "Urmărire de posturi radio foarte îndepărtate",
+    "instruire individuală sau în colectiv în domeniul radiotehnicii, participare la concursuri, experimentare"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2010)",
+   "explanation": "Din regulament: serviciul de amator - serviciul de radiocomunicații având ca scop autoinstruirea, intercomunicațiile și investigațiile tehnice efectuate de radioamatori, în condițiile legii, interesate de tehnica radiocomunicațiilor, numai în scop personal și fără nici un interes pecuniar;",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2010",
+   "html": {
+    "question": "Ce urmărește activitatea de radioamator?",
+    "answers": [
+     "Transmiterea de radiograme, contra cost",
+     "Difuzarea de muzică în FM",
+     "Urmărire de posturi radio foarte îndepărtate",
+     "instruire individuală sau în colectiv în domeniul radiotehnicii, participare la concursuri, experimentare"
+    ],
+    "explanation": "Din regulament: serviciul de amator - serviciul de radiocomunicații având ca scop autoinstruirea, intercomunicațiile și investigațiile tehnice efectuate de radioamatori, în condițiile legii, interesate de tehnica radiocomunicațiilor, numai în scop personal și fără nici un interes pecuniar;"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/27",
+   "number": 27,
+   "code": "06A281",
+   "question": "Care este definiția unei stații de amator?",
+   "image": null,
+   "answers": [
+    "Stație de emisie-recepție folosită de amatorii care ascultă radiodifuziunea.",
+    "Stație de emisie-recepție folosită în scopuri comerciale.",
+    "Aparat radio folosit pentru ascultarea posturilor pe frecvențe neconvenționale.",
+    "Stație de emisie-recepție folosită în serviciul de radioamator."
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Care este definiția unei stații de amator?",
+    "answers": [
+     "Stație de emisie-recepție folosită de amatorii care ascultă radiodifuziunea.",
+     "Stație de emisie-recepție folosită în scopuri comerciale.",
+     "Aparat radio folosit pentru ascultarea posturilor pe frecvențe neconvenționale.",
+     "Stație de emisie-recepție folosită în serviciul de radioamator."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/28",
+   "number": 28,
+   "code": "03A283",
+   "question": "Grupele de litere YP, YQ, YR pot fi atribuite ca prefix unui indicativ din România?",
+   "image": null,
+   "answers": [
+    "da, cu aprobarea ANCOM",
+    "nu",
+    "da, cu aprobarea Asociației Județene de Radioamatorism",
+    "da, cu aprobarea Federației Române de Radioamatorism"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Grupele de litere YP, YQ, YR pot fi atribuite ca prefix unui indicativ din România?",
+    "answers": [
+     "da, cu aprobarea ANCOM",
+     "nu",
+     "da, cu aprobarea Asociației Județene de Radioamatorism",
+     "da, cu aprobarea Federației Române de Radioamatorism"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/29",
+   "number": 29,
+   "code": "04A283",
+   "question": "Din ce litere și cifre este alcătuit un indicativ al unei stații de emisie-recepție individuale de radioamator?",
+   "image": null,
+   "answers": [
+    "YO - indicativul țării, urmat de o cifră ce simbolizează zona(districtul radio), urmat de două sau trei litere, sufixul unic al unui radioamator",
+    "YR - indicativul țării, urmat de o cifră ce simbolizează zona(districtul radio), urmat de două sau trei litere, sufixul unic al unui radioamator",
+    "YO - indicativul țării, urmat de o bară de fracție, urmată de două sau trei litere, sufixul unic al unui radioamator",
+    "YO - indicativul țării, urmat de trei cifre, sufixul unic al unui radioamator"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Din ce litere și cifre este alcătuit un indicativ al unei stații de emisie-recepție individuale de radioamator?",
+    "answers": [
+     "YO - indicativul țării, urmat de o cifră ce simbolizează zona(districtul radio), urmat de două sau trei litere, sufixul unic al unui radioamator",
+     "YR - indicativul țării, urmat de o cifră ce simbolizează zona(districtul radio), urmat de două sau trei litere, sufixul unic al unui radioamator",
+     "YO - indicativul țării, urmat de o bară de fracție, urmată de două sau trei litere, sufixul unic al unui radioamator",
+     "YO - indicativul țării, urmat de trei cifre, sufixul unic al unui radioamator"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/30",
+   "number": 30,
+   "code": "05A283",
+   "question": "Câte litere are în sufix indicativul unei stații de club?",
+   "image": null,
+   "answers": [
+    "trei",
+    "două",
+    "două sau trei",
+    "una"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Câte litere are în sufix indicativul unei stații de club?",
+    "answers": [
+     "trei",
+     "două",
+     "două sau trei",
+     "una"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/31",
+   "number": 31,
+   "code": "01C3231",
+   "question": "Ce este o zonă de indicative de apel, denumit și \"district\"?",
+   "image": null,
+   "answers": [
+    "Este o zonă geografică ce cuprinde mai multe județe adiacente cărora îi este atribuită prin regulament o anumită cifră de zonă.",
+    "Este o zonă geografică de acoperire radio, adică zona celor care recepționează un apel.",
+    "Este o zonă geografică de acoperire radio, adică zona celor care răspund unui apel.",
+    "Este zona geografică a indicativelor cu același prefix."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2014",
+   "explanation": "Zona sau în denumire mai veche, district, este o arie geografică compusă din mai multe județe adiacente; Mai mai multe zone adiacente sunt arondate unei direcții teritoriale a ANCOM, București, Iasi, Cluj, Timis.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2018",
+   "html": {
+    "question": "Ce este o zonă de indicative de apel, denumit și \"district\"?",
+    "answers": [
+     "Este o zonă geografică ce cuprinde mai multe județe adiacente cărora îi este atribuită prin regulament o anumită cifră de zonă.",
+     "Este o zonă geografică de acoperire radio, adică zona celor care recepționează un apel.",
+     "Este o zonă geografică de acoperire radio, adică zona celor care răspund unui apel.",
+     "Este zona geografică a indicativelor cu același prefix."
+    ],
+    "explanation": "Zona sau în denumire mai veche, district, este o arie geografică compusă din mai multe județe adiacente; Mai mai multe zone adiacente sunt arondate unei direcții teritoriale a ANCOM, București, Iasi, Cluj, Timis."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/32",
+   "number": 32,
+   "code": "07A283",
+   "question": "Cum ne dăm seama din ce zonă geografică a țării este o stație de radioamator sau club dacă îi știm indicativul?",
+   "image": null,
+   "answers": [
+    "Cifra din indicativ codifică o zonă geografică anume",
+    "Nu ne putem da seama",
+    "Ne uităm în lista stațiilor autorizate publicată de ANCOM",
+    "Doar din Callbook"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cum ne dăm seama din ce zonă geografică a țării este o stație de radioamator sau club dacă îi știm indicativul?",
+    "answers": [
+     "Cifra din indicativ codifică o zonă geografică anume",
+     "Nu ne putem da seama",
+     "Ne uităm în lista stațiilor autorizate publicată de ANCOM",
+     "Doar din Callbook"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/33",
+   "number": 33,
+   "code": "03A288",
+   "question": "Cine răspunde de activitatea unei stații de club?",
+   "image": null,
+   "answers": [
+    "șeful radioclubului",
+    "responsabilul stației de club",
+    "operatorul principal al stației de club",
+    "operatorul de moment al stației de club"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cine răspunde de activitatea unei stații de club?",
+    "answers": [
+     "șeful radioclubului",
+     "responsabilul stației de club",
+     "operatorul principal al stației de club",
+     "operatorul de moment al stației de club"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/34",
+   "number": 34,
+   "code": "04A288",
+   "question": "Ce obligații are titularul sau responsabilul unei stații la care sunt autorizați radioamatori de clasă IV?",
+   "image": null,
+   "answers": [
+    "nu au obligații",
+    "radioamatorii de clasă IV au aceleași drepturi ca și cei de clasă III, dar începători",
+    "asigurarea funcționării stației în strictă conformitate cu prevederile normelor tehnice în vigoare, permițând radioamatorului de clasă IV lucrul la stație numai în prezența sa",
+    "Să-i ajute să devină buni radioamatori"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce obligații are titularul sau responsabilul unei stații la care sunt autorizați radioamatori de clasă IV?",
+    "answers": [
+     "nu au obligații",
+     "radioamatorii de clasă IV au aceleași drepturi ca și cei de clasă III, dar începători",
+     "asigurarea funcționării stației în strictă conformitate cu prevederile normelor tehnice în vigoare, permițând radioamatorului de clasă IV lucrul la stație numai în prezența sa",
+     "Să-i ajute să devină buni radioamatori"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/35",
+   "number": 35,
+   "code": "06A282",
+   "question": "Ce este un certificat de radioamator?",
+   "image": null,
+   "answers": [
+    "un document emis de un radioclub care face dovada că posesorul este membru al acelui club",
+    "un document care face dovada că posesorul are cunoștințe și aptitudini necesare unui radioamator, este dobândit în urma unui examen",
+    "un document emis de Federația Română de Radioamatorism care atestă apartenența posesorului la un club",
+    "un document care permite lucrul la o stație de radioamator"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce este un certificat de radioamator?",
+    "answers": [
+     "un document emis de un radioclub care face dovada că posesorul este membru al acelui club",
+     "un document care face dovada că posesorul are cunoștințe și aptitudini necesare unui radioamator, este dobândit în urma unui examen",
+     "un document emis de Federația Română de Radioamatorism care atestă apartenența posesorului la un club",
+     "un document care permite lucrul la o stație de radioamator"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/36",
+   "number": 36,
+   "code": "01A284",
+   "question": "Radioamatorii ce transmit de la o stație de club, transmit obligatoriu indicativul stației sau cel propriu?",
+   "image": null,
+   "answers": [
+    "cel propriu",
+    "cel al stației de club",
+    "cel al stației de club urmat opțional de cel propriu SAU doar cel propriu, cu acordul responsabilului de stație și cu consemnarea în jurnalul stației",
+    "cel al responsabilului stației de club și opțional cel propriu"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2018)",
+   "explanation": "Anexa la Decizie, Cap. IV, 8)",
+   "explanation_image": null,
+   "explanation_author": "YO6OOWN, 2018",
+   "html": {
+    "question": "Radioamatorii ce transmit de la o stație de club, transmit obligatoriu indicativul stației sau cel propriu?",
+    "answers": [
+     "cel propriu",
+     "cel al stației de club",
+     "cel al stației de club urmat opțional de cel propriu SAU doar cel propriu, cu acordul responsabilului de stație și cu consemnarea în jurnalul stației",
+     "cel al responsabilului stației de club și opțional cel propriu"
+    ],
+    "explanation": "Anexa la Decizie, Cap. IV, 8)"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/37",
+   "number": 37,
+   "code": "03A284",
+   "question": "Indicativul radioamatorului care emite trebuie menționat cel târziu la fiecare:",
+   "image": null,
+   "answers": [
+    "5 minute",
+    "25 minute",
+    "10 minute",
+    "2 minute"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2018)",
+   "explanation": "Anexa la Decizie, cap.IV, 3)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2018",
+   "html": {
+    "question": "Indicativul radioamatorului care emite trebuie menționat cel târziu la fiecare:",
+    "answers": [
+     "5 minute",
+     "25 minute",
+     "10 minute",
+     "2 minute"
+    ],
+    "explanation": "Anexa la Decizie, cap.IV, 3)"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/38",
+   "number": 38,
+   "code": "02A298",
+   "question": "Mutarea la un nou amplasament fix sau folosirea unui nou amplasament fix pentru stația de amator poate începe:",
+   "image": null,
+   "answers": [
+    "numai după primirea autorizației de radioamator",
+    "30 de zile după mutare",
+    "30 de zile înainte de mutare",
+    "20 de zile după mutare, anexând copia după buletinul de identitate"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Brașov, 2007(rev.2010)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Mutarea la un nou amplasament fix sau folosirea unui nou amplasament fix pentru stația de amator poate începe:",
+    "answers": [
+     "numai după primirea autorizației de radioamator",
+     "30 de zile după mutare",
+     "30 de zile înainte de mutare",
+     "20 de zile după mutare, anexând copia după buletinul de identitate"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/39",
+   "number": 39,
+   "code": "07A282",
+   "question": "Care este vârsta împlinită la care cineva se poate înscrie la examenul de radioamator pentru clasa III, II sau I?",
+   "image": null,
+   "answers": [
+    "14 ani",
+    "7 ani",
+    "18 ani",
+    "nu există limită de vârsta"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev. 2017)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Care este vârsta împlinită la care cineva se poate înscrie la examenul de radioamator pentru clasa III, II sau I?",
+    "answers": [
+     "14 ani",
+     "7 ani",
+     "18 ani",
+     "nu există limită de vârsta"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/40",
+   "number": 40,
+   "code": "08A282",
+   "question": "Dacă nu are încă împlinită vârsta de 14 ani, pentru ce categorie de certificat se poate înscrie cineva când dă examen de radioamator?",
+   "image": null,
+   "answers": [
+    "clasa I",
+    "clasa a II-a sau a III-a",
+    "oricare din clase",
+    "clasa a IV-a"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Brașov, 2017",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Dacă nu are încă împlinită vârsta de 14 ani, pentru ce categorie de certificat se poate înscrie cineva când dă examen de radioamator?",
+    "answers": [
+     "clasa I",
+     "clasa a II-a sau a III-a",
+     "oricare din clase",
+     "clasa a IV-a"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/41",
+   "number": 41,
+   "code": "07A281",
+   "question": "Ce este serviciul de amator?",
+   "image": null,
+   "answers": [
+    "Serviciul de radiocomunicații având ca scop autoinstruirea, intercomunicațiile și investigațiile tehnice efectuate de radioamatori, în condițiile legii, interesate de tehnica radiocomunicațiilor, numai în scop personal și fără niciun interes pecuniar;",
+    "Grupul pasionatilor din hobby care are scopul de a proteja datele istorice și a ajuta publicul la înțelegerea istoriei radioului.",
+    "Grupul unit de o federație radio care are ca scop în a ajuta țările străine să-și imbunatateasca tehnicile de comunicare radio și a încuraja radioamatorii străini să viziteze România.",
+    "Serviciul tehnic de proiectare a stațiilor de radioamatori cu scopul de a îmbunătăți tehnicile de desenare a schemelor radio și a mări numărul specialiștilor proiectanți."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Brașov, 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce este serviciul de amator?",
+    "answers": [
+     "Serviciul de radiocomunicații având ca scop autoinstruirea, intercomunicațiile și investigațiile tehnice efectuate de radioamatori, în condițiile legii, interesate de tehnica radiocomunicațiilor, numai în scop personal și fără niciun interes pecuniar;",
+     "Grupul pasionatilor din hobby care are scopul de a proteja datele istorice și a ajuta publicul la înțelegerea istoriei radioului.",
+     "Grupul unit de o federație radio care are ca scop în a ajuta țările străine să-și imbunatateasca tehnicile de comunicare radio și a încuraja radioamatorii străini să viziteze România.",
+     "Serviciul tehnic de proiectare a stațiilor de radioamatori cu scopul de a îmbunătăți tehnicile de desenare a schemelor radio și a mări numărul specialiștilor proiectanți."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/42",
+   "number": 42,
+   "code": "05B285",
+   "question": "Este permisă efectuarea de radiolegături(QSO) cu radioamatori ale unei țări în condițiile în care autoritățile acelei țări se opun activității de radioamator?",
+   "image": null,
+   "answers": [
+    "da, oricum radioamatorul de dincolo nu-și dă indicativul real.",
+    "nu, este stipulat și în reglementări radio ITU/UIT",
+    "da, însă doar dacă răspunzi la apel de QSO din țara respectivă, nu este permis să inițiezi.",
+    "da, și asta-i frumusețea, nimeni nu poate întrerupe unda radio"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN 2014",
+   "explanation": "Articolul 25 din \"Reglementările Radio UIT\", 25.1 stipulează că nu se fac radiolegături cu țări ale căror administrații anunță că nu permit radioamatorismul.\nDeși pare că ITU recunoaște și ajută prin acest paragraf dictaturile, ne putem gândi la consecințele efectuării de QSO-uri cu o asemenea țară: niște pasionați ca noi vor fi căutați și pedepsiți. Există posibilitatea în dictaturi ca doar aserviții direcți ai dictaturii să se joace de-a radioamatorii iar respectarea reglementării ITU de tăcere radio îi privează de o distracție accesibilă doar \"elitei\".",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2014",
+   "html": {
+    "question": "Este permisă efectuarea de radiolegături(QSO) cu radioamatori ale unei țări în condițiile în care autoritățile acelei țări se opun activității de radioamator?",
+    "answers": [
+     "da, oricum radioamatorul de dincolo nu-și dă indicativul real.",
+     "nu, este stipulat și în reglementări radio ITU/UIT",
+     "da, însă doar dacă răspunzi la apel de QSO din țara respectivă, nu este permis să inițiezi.",
+     "da, și asta-i frumusețea, nimeni nu poate întrerupe unda radio"
+    ],
+    "explanation": "Articolul 25 din \"Reglementările Radio UIT\", 25.1 stipulează că nu se fac radiolegături cu țări ale căror administrații anunță că nu permit radioamatorismul.<br>Deși pare că ITU recunoaște și ajută prin acest paragraf dictaturile, ne putem gândi la consecințele efectuării de QSO-uri cu o asemenea țară: niște pasionați ca noi vor fi căutați și pedepsiți. Există posibilitatea în dictaturi ca doar aserviții direcți ai dictaturii să se joace de-a radioamatorii iar respectarea reglementării ITU de tăcere radio îi privează de o distracție accesibilă doar \"elitei\"."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/43",
+   "number": 43,
+   "code": "08A283",
+   "question": "Cum se compune indicativul radioamatorului YO6ABC, când el lucrează pe stație portabilă?",
+   "image": null,
+   "answers": [
+    "se compune din indicativul de apel atribuit, urmat de litera P: YO6ABCP",
+    "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și litera P: YO6ABC/P",
+    "se compune din indicativul de apel atribuit, urmat de două bare de fracție // și litera P: YO6ABC//P",
+    "se compune din indicativul de apel atribuit, urmat de cuvântul PORTABIL: YO6ABC PORTABIL"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cum se compune indicativul radioamatorului YO6ABC, când el lucrează pe stație portabilă?",
+    "answers": [
+     "se compune din indicativul de apel atribuit, urmat de litera P: YO6ABCP",
+     "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și litera P: YO6ABC/P",
+     "se compune din indicativul de apel atribuit, urmat de două bare de fracție // și litera P: YO6ABC//P",
+     "se compune din indicativul de apel atribuit, urmat de cuvântul PORTABIL: YO6ABC PORTABIL"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/44",
+   "number": 44,
+   "code": "09A283",
+   "question": "Cum se compune indicativul radioamatorului YO6ABC, când el lucreaza pe o stație montata în automobil?",
+   "image": null,
+   "answers": [
+    "se compune din litera M urmată de o bară de fracție și de indicativul de apel atribuit: M/YO6ABC",
+    "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și litera M: YO6ABC/M",
+    "se compune din indicativul de apel atribuit, urmat de două bare de fracție // și litera M: YO6ABC//M",
+    "se compune din indicativul de apel atribuit, urmat de cuvântul MOBIL: YO6ABC MOBIL"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cum se compune indicativul radioamatorului YO6ABC, când el lucreaza pe o stație montata în automobil?",
+    "answers": [
+     "se compune din litera M urmată de o bară de fracție și de indicativul de apel atribuit: M/YO6ABC",
+     "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și litera M: YO6ABC/M",
+     "se compune din indicativul de apel atribuit, urmat de două bare de fracție // și litera M: YO6ABC//M",
+     "se compune din indicativul de apel atribuit, urmat de cuvântul MOBIL: YO6ABC MOBIL"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/45",
+   "number": 45,
+   "code": "10A283",
+   "question": "Cum se compune indicativul radioamatorului YO6ABC, când el face radiolegături dintr-un avion ușor?",
+   "image": null,
+   "answers": [
+    "se compune din literele AM urmate de o bară de fracție și de indicativul de apel atribuit: AM/YO6ABC",
+    "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și literele AM: YO6ABC/AM",
+    "se compune din indicativul de apel atribuit, dar cu prefix YR și cu liniuta în loc de număr de zonă: YR-ABC",
+    "se compune din indicativul de apel atribuit, urmat de cuvântul AERO: YO6ABC AERO"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cum se compune indicativul radioamatorului YO6ABC, când el face radiolegături dintr-un avion ușor?",
+    "answers": [
+     "se compune din literele AM urmate de o bară de fracție și de indicativul de apel atribuit: AM/YO6ABC",
+     "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și literele AM: YO6ABC/AM",
+     "se compune din indicativul de apel atribuit, dar cu prefix YR și cu liniuta în loc de număr de zonă: YR-ABC",
+     "se compune din indicativul de apel atribuit, urmat de cuvântul AERO: YO6ABC AERO"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/46",
+   "number": 46,
+   "code": "11B283",
+   "question": "Cum se compune indicativul radioamatorului YO6ABC, când lucrează cu stația de buzunar din postura sa de pasager pe un vapor fluvial?",
+   "image": null,
+   "answers": [
+    "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și litera P: YO6ABC/P",
+    "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și literele MM: YO6ABC/MM",
+    "se compune din indicativul de apel atribuit, urmat de două bare de fracție // și litera M: YO6ABC//M",
+    "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și grupul P-MM : YO6ABC/P-MM"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cum se compune indicativul radioamatorului YO6ABC, când lucrează cu stația de buzunar din postura sa de pasager pe un vapor fluvial?",
+    "answers": [
+     "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și litera P: YO6ABC/P",
+     "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și literele MM: YO6ABC/MM",
+     "se compune din indicativul de apel atribuit, urmat de două bare de fracție // și litera M: YO6ABC//M",
+     "se compune din indicativul de apel atribuit, urmat de o bară de fracție / și grupul P-MM : YO6ABC/P-MM"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/47",
+   "number": 47,
+   "code": "06B285",
+   "question": "Când sunt permise, ca excepție, transmiterea mesajelor de la, sau către terți neradioamatori?",
+   "image": null,
+   "answers": [
+    "Când e vorba de o zonă fără acces la internet, telefonie sau alte servicii comerciale",
+    "Atunci când nu există semnal la telefonul mobil",
+    "În situații de urgență și umanitare",
+    "Nu sunt permise mesajele de la, sau către terți în nici un caz"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Când sunt permise, ca excepție, transmiterea mesajelor de la, sau către terți neradioamatori?",
+    "answers": [
+     "Când e vorba de o zonă fără acces la internet, telefonie sau alte servicii comerciale",
+     "Atunci când nu există semnal la telefonul mobil",
+     "În situații de urgență și umanitare",
+     "Nu sunt permise mesajele de la, sau către terți în nici un caz"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/48",
+   "number": 48,
+   "code": "07A285",
+   "question": "Cu cine pot stabili stațiile de radioamatori în mod normal, legături radio?",
+   "image": null,
+   "answers": [
+    "cu Stația Spațială",
+    "cu orice stație care apelează CQ",
+    "cu stații de radioamator și de Citizen Band",
+    "doar cu alte stații de radioamator"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cu cine pot stabili stațiile de radioamatori în mod normal, legături radio?",
+    "answers": [
+     "cu Stația Spațială",
+     "cu orice stație care apelează CQ",
+     "cu stații de radioamator și de Citizen Band",
+     "doar cu alte stații de radioamator"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/49",
+   "number": 49,
+   "code": "09A282",
+   "question": "Ce înseamnă examen semestrial(ordinar)?",
+   "image": null,
+   "answers": [
+    "este singurul examen în care se poate da examen pentru clasa I",
+    "este examenul la care candidatul participă prima dată",
+    "este examenul în care se dau subiectele obișnuite cu cod A",
+    "este examenul organizat în perioada obișnuită, semestrial(aprilie sau octombrie) de către direcțiile teritoriale ANCOM"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN 2018",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce înseamnă examen semestrial(ordinar)?",
+    "answers": [
+     "este singurul examen în care se poate da examen pentru clasa I",
+     "este examenul la care candidatul participă prima dată",
+     "este examenul în care se dau subiectele obișnuite cu cod A",
+     "este examenul organizat în perioada obișnuită, semestrial(aprilie sau octombrie) de către direcțiile teritoriale ANCOM"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/50",
+   "number": 50,
+   "code": "08A281",
+   "question": "Dă dreptul autorizația de radioamator de a presta muncă contra cost sau de a efectua operațiuni comerciale?",
+   "image": null,
+   "answers": [
+    "nu, autorizația de radioamator conferă dreptul de utilizare a benzilor radio atribuite serviciului de amator, în condițiile clasei autorizației respective",
+    "da, nu poate limita dreptul la muncă, nu numai radioamatorii muncesc contra cost",
+    "nu, cu excepția înființării unui service de aparatură de radioamator",
+    "da, cu condiția respectării obligațiilor fiscale."
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN 2020",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Dă dreptul autorizația de radioamator de a presta muncă contra cost sau de a efectua operațiuni comerciale?",
+    "answers": [
+     "nu, autorizația de radioamator conferă dreptul de utilizare a benzilor radio atribuite serviciului de amator, în condițiile clasei autorizației respective",
+     "da, nu poate limita dreptul la muncă, nu numai radioamatorii muncesc contra cost",
+     "nu, cu excepția înființării unui service de aparatură de radioamator",
+     "da, cu condiția respectării obligațiilor fiscale."
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/51",
+   "number": 51,
+   "code": "10A282",
+   "question": "De câte clase sunt autorizațiile de radioamator?",
+   "image": null,
+   "answers": [
+    "2 clase: Novice și Avansat",
+    "3 clase: clasa I, clasa a II-a, și clasa a III-a",
+    "4 clase: clasa I, clasa a II-a, clasa a III-a și clasa a IV-a",
+    "4 clase: clasa I, clasa a II-a, clasa a III-a și clasa a III-a restrâns"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN 2014,rev. 2018",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "De câte clase sunt autorizațiile de radioamator?",
+    "answers": [
+     "2 clase: Novice și Avansat",
+     "3 clase: clasa I, clasa a II-a, și clasa a III-a",
+     "4 clase: clasa I, clasa a II-a, clasa a III-a și clasa a IV-a",
+     "4 clase: clasa I, clasa a II-a, clasa a III-a și clasa a III-a restrâns"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/52",
+   "number": 52,
+   "code": "11A282",
+   "question": "Cu ce nivel de autorizație CEPT este echivalentă autorizația românească de clasa a IV-a?",
+   "image": null,
+   "answers": [
+    "echivalentă cu autorizația CEPT Entry-Class",
+    "nu este echivalentă cu nici o clasa CEPT",
+    "echivalentă cu autorizația CEPT Novice",
+    "echivalentă cu autorizația HAREC"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN 2014, rev. 2018",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Cu ce nivel de autorizație CEPT este echivalentă autorizația românească de clasa a IV-a?",
+    "answers": [
+     "echivalentă cu autorizația CEPT Entry-Class",
+     "nu este echivalentă cu nici o clasa CEPT",
+     "echivalentă cu autorizația CEPT Novice",
+     "echivalentă cu autorizația HAREC"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/53",
+   "number": 53,
+   "code": "03A298",
+   "question": "Ce se întâmplă cu sufixele de indicativ(cele 2 sau 3 litere) în cazul schimbării domiciliului?",
+   "image": null,
+   "answers": [
+    "se păstrează",
+    "se realocă",
+    "se atribuie altele și sufixul vechi nu se poate aloca o perioada de 5 ani",
+    "se schimbă"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN 2014",
+   "explanation": "Această întrebare cu păstrarea sufixului există fiindcă în regulamentul anterior(versiunea 2010) era Art. 37 (5):\n\"Sufixele de indicativ atribuite prin intermediul autorizației de radioamator se vor păstra de-a lungul întregii perioade de valabilitate a acesteia, inclusiv în situația schimbării domiciliului\". Era o facilitate pentru radioamator și o comoditate pentru ANCOM să nu schimbe sufixul.\nÎn legislația în vigoare - Decizia 245/2017 acest aspect nu mai este reglementat. Din comoditate sperăm că această practică va rămâne neschimbată dar legal, ANCOM nu are nicio obligație.",
+   "explanation_image": null,
+   "explanation_author": "Georgina28 2018",
+   "html": {
+    "question": "Ce se întâmplă cu sufixele de indicativ(cele 2 sau 3 litere) în cazul schimbării domiciliului?",
+    "answers": [
+     "se păstrează",
+     "se realocă",
+     "se atribuie altele și sufixul vechi nu se poate aloca o perioada de 5 ani",
+     "se schimbă"
+    ],
+    "explanation": "Această întrebare cu păstrarea sufixului există fiindcă în regulamentul anterior(versiunea 2010) era Art. 37 (5):<br>\"Sufixele de indicativ atribuite prin intermediul autorizației de radioamator se vor păstra de-a lungul întregii perioade de valabilitate a acesteia, inclusiv în situația schimbării domiciliului\". Era o facilitate pentru radioamator și o comoditate pentru ANCOM să nu schimbe sufixul.<br>În legislația în vigoare - Decizia 245/2017 acest aspect nu mai este reglementat. Din comoditate sperăm că această practică va rămâne neschimbată dar legal, ANCOM nu are nicio obligație."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/54",
+   "number": 54,
+   "code": "04A298",
+   "question": "Ce se întâmplă cu sufixele de indicativ(cele 2 sau 3 litere) în cazul schimbării domiciliului în zona altei Direcții Teritoriale ANCOM?",
+   "image": null,
+   "answers": [
+    "se păstrează",
+    "se realocă",
+    "se atribuie altele și sufixul vechi nu se poate aloca o perioada de 5 ani",
+    "se schimbă"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN 2014",
+   "explanation": "Această întrebare cu păstrarea sufixului există fiindcă în regulamentul anterior(versiunea 2010) era Art. 37 (5):\n\"Sufixele de indicativ atribuite prin intermediul autorizației de radioamator se vor păstra de-a lungul întregii perioade de valabilitate a acesteia, inclusiv în situația schimbării domiciliului\". Era o facilitate pentru radioamator și o comoditate pentru ANCOM să nu schimbe sufixul.\nÎn legislația în vigoare - Decizia 245/2017 acest aspect nu mai este reglementat. Din comoditate sperăm că această practică va rămâne neschimbată dar legal, ANCOM nu are nicio obligație.",
+   "explanation_image": null,
+   "explanation_author": "Georgina28 2018",
+   "html": {
+    "question": "Ce se întâmplă cu sufixele de indicativ(cele 2 sau 3 litere) în cazul schimbării domiciliului în zona altei Direcții Teritoriale ANCOM?",
+    "answers": [
+     "se păstrează",
+     "se realocă",
+     "se atribuie altele și sufixul vechi nu se poate aloca o perioada de 5 ani",
+     "se schimbă"
+    ],
+    "explanation": "Această întrebare cu păstrarea sufixului există fiindcă în regulamentul anterior(versiunea 2010) era Art. 37 (5):<br>\"Sufixele de indicativ atribuite prin intermediul autorizației de radioamator se vor păstra de-a lungul întregii perioade de valabilitate a acesteia, inclusiv în situația schimbării domiciliului\". Era o facilitate pentru radioamator și o comoditate pentru ANCOM să nu schimbe sufixul.<br>În legislația în vigoare - Decizia 245/2017 acest aspect nu mai este reglementat. Din comoditate sperăm că această practică va rămâne neschimbată dar legal, ANCOM nu are nicio obligație."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/55",
+   "number": 55,
+   "code": "09A281",
+   "question": "Ce este ora UTC, folosită la notarea radiolegăturii în log?",
+   "image": null,
+   "answers": [
+    "ora Uniunii de Telecomunicații și Comunicații, care sincronizează toate centralele de telefonie din lume(ora plesiocronă)",
+    "ora Uranium Time Clock - ora dată de ceasul atomic de la Berna",
+    "ora Universal Time, Coordinated - ceasul atomic, aproximativ același cu GMT în utilizare curentă",
+    "ora Uniform Time Clock - ora dată de timpul de rotație al planetei Terra"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Toate răspunsurile conțin denumiri cu inițialele U,T,C, și sună științific dar Universal Time, Coordinated este ora notată de radioamatori, restul variantelor nu există în realitate. UTC este un succesor mai bine definit al GMT dar pentru radioamatori, UTC = GMT. (trivia - Ceasurile atomice de obicei nu folosesc uraniu). UTC: Link Wikipedia (https://en.wikipedia.org/wiki/Coordinated_Universal_Time)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2017",
+   "html": {
+    "question": "Ce este ora UTC, folosită la notarea radiolegăturii în log?",
+    "answers": [
+     "ora Uniunii de Telecomunicații și Comunicații, care sincronizează toate centralele de telefonie din lume(ora plesiocronă)",
+     "ora Uranium Time Clock - ora dată de ceasul atomic de la Berna",
+     "ora Universal  Time, Coordinated - ceasul atomic, aproximativ același cu GMT în utilizare curentă",
+     "ora Uniform Time Clock - ora dată de timpul de rotație al planetei Terra"
+    ],
+    "explanation": "Toate răspunsurile conțin denumiri cu inițialele U,T,C, și sună științific dar Universal Time, Coordinated este ora notată de radioamatori, restul variantelor nu există în realitate. UTC este un succesor mai bine definit al GMT dar pentru radioamatori, UTC = GMT. (trivia - Ceasurile atomice de obicei nu folosesc uraniu). <a href=\"https://en.wikipedia.org/wiki/Coordinated_Universal_Time\">UTC: Link Wikipedia</a>"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/56",
+   "number": 56,
+   "code": "01A141",
+   "question": "În ce document se consemnează activitatea de emisie-recepție la o stație de radioamator?",
+   "image": null,
+   "answers": [
+    "Foaie de activitate",
+    "Jurnalul de trafic",
+    "Formular de concurs",
+    "Foaia de urmărire a activității stației"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, Brașov(rev.2018)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "În ce document se consemnează activitatea de emisie-recepție la o stație de radioamator?",
+    "answers": [
+     "Foaie de activitate",
+     "Jurnalul de trafic",
+     "Formular de concurs",
+     "Foaia de urmărire a activității stației"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/57",
+   "number": 57,
+   "code": "02A141",
+   "question": "Păstrarea jurnalului de trafic la stația proprie este obligatorie? Cât timp de la data efectuării ultimei legături consemnate?",
+   "image": null,
+   "answers": [
+    "nu",
+    "da, 12 luni",
+    "da, 6 luni",
+    "da, 2 ani"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev.2018)",
+   "explanation": "jurnalul este obligatoriu pentru legături efectuate la stații alta decât cea proprie și la stația de radioclub. Anexa la reglementări, cap IV, 23)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, 2018",
+   "html": {
+    "question": "Păstrarea jurnalului de trafic la stația proprie este obligatorie? Cât timp de la data efectuării ultimei legături consemnate?",
+    "answers": [
+     "nu",
+     "da, 12 luni",
+     "da, 6 luni",
+     "da, 2 ani"
+    ],
+    "explanation": "jurnalul este obligatoriu pentru legături efectuate la stații alta decât cea proprie și la stația de radioclub. Anexa la reglementări, cap IV, 23)"
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/58",
+   "number": 58,
+   "code": "03A141",
+   "question": "Ce informații sunt consemnate în jurnalul de trafic (LOG)?",
+   "image": null,
+   "answers": [
+    "indicativul stației cu care s-a lucrat, data, ora României",
+    "indicativul stației, data",
+    "data, ora UTC, banda în care s-a efectuat legătura, indicativul operatorului inițiator și al corespondentului",
+    "data, ora GMT, banda în care s-a efectuat legătura, controlul RST, indicativul stației corespondente"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "ANCOM Iași, întrebare propusă pentru examenul de radioamator(rev. 2018)",
+   "explanation": "Se trec toate datele care pot identifica unic un QSO. Pe lângă datele minime, se pot adăuga și alte amănunte interesante, dacă există.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2018",
+   "html": {
+    "question": "Ce informații sunt consemnate în jurnalul de trafic (LOG)?",
+    "answers": [
+     "indicativul stației cu care s-a lucrat, data, ora României",
+     "indicativul stației, data",
+     "data, ora UTC, banda în care s-a efectuat legătura, indicativul operatorului inițiator și al corespondentului",
+     "data, ora GMT, banda în care s-a efectuat legătura, controlul RST, indicativul stației corespondente"
+    ],
+    "explanation": "Se trec toate datele care pot identifica unic un QSO. Pe lângă datele minime, se pot adăuga și alte amănunte interesante, dacă există."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/59",
+   "number": 59,
+   "code": "01A172",
+   "question": "Ce înseamnă abrevierea TNABF?",
+   "image": null,
+   "answers": [
+    "Tabelul național de atribuire a benzilor de frecvențe;",
+    "Tabăra națională de antene pe benzi de frecvență",
+    "Un paratrăsnet activ de tip Trasnete Negativate cu AutoBlock de Fulgere",
+    "Transformata Fourier normată A-B"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Brașov, 2014",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Ce înseamnă abrevierea TNABF?",
+    "answers": [
+     "Tabelul național de atribuire a benzilor de frecvențe;",
+     "Tabăra națională de antene pe benzi de frecvență",
+     "Un paratrăsnet activ de tip Trasnete Negativate cu AutoBlock de Fulgere",
+     "Transformata Fourier normată A-B"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/60",
+   "number": 60,
+   "code": "01A173",
+   "question": "Ce înseamnă 'statut secundar' al unei benzi de frecvențe alocata serviciului de amator?",
+   "image": null,
+   "answers": [
+    "Radioamatorii pot transmite tot timpul în acea bandă, însă atunci când e liniște, și alte servicii pot transmite",
+    "Această bandă are o importanță secundară din cauza condițiilor de propagare foarte instabile",
+    "Radioamatorii pot transmite în acea bandă doar dacă au o autorizație secundară specială",
+    "Radioamatorii folosesc în mod curent aceste benzi, însă în anumite condiții speciale, alte servicii au prioritate în folosirea acestor benzi"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Brașov, 2007(rev. 2018)",
+   "explanation": "TNABF definește: STATUT SECUNDAR. Stațiile de radioamator din această bandă nu vor cauza perturbații stațiilor din celelalte servicii de radiocomunicații și nici nu beneficiază de protecție.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2018",
+   "html": {
+    "question": "Ce înseamnă 'statut secundar' al unei benzi de frecvențe alocata serviciului de amator?",
+    "answers": [
+     "Radioamatorii pot transmite tot timpul în acea bandă, însă atunci când e liniște, și alte servicii pot transmite",
+     "Această bandă are o importanță secundară din cauza condițiilor de propagare foarte instabile",
+     "Radioamatorii pot transmite în acea bandă doar dacă au o autorizație secundară specială",
+     "Radioamatorii folosesc în mod curent aceste benzi, însă în anumite condiții speciale, alte servicii au prioritate în folosirea acestor benzi"
+    ],
+    "explanation": "TNABF definește: STATUT SECUNDAR. Stațiile de radioamator din această bandă nu vor cauza perturbații stațiilor din celelalte servicii de radiocomunicații și nici nu beneficiază de protecție."
+   }
+  },
+  {
+   "id": "legislatie-clasa-4/61",
+   "number": 61,
+   "code": "02A173",
+   "question": "Ce înseamnă 'statut primar' al unei benzi de frecvențe alocată serviciului de amator?",
+   "image": null,
+   "answers": [
+    "Radioamatorii pot transmite tot timpul în acea bandă, însă atunci când e liniște, și alte servicii pot transmite",
+    "Radioamatorii pot rejecta apeluri ale altor servicii",
+    "Radioamatorii sunt singurii care pot transmite în acea bandă",
+    "În cazul unor calamități, radioamatorii preiau controlul de trafic între celelalte servicii pe aceste benzi"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Brașov, 2007(rev. 2018)",
+   "explanation": "TNABF definește: Statut primar al benzii înseamnă că acea bandă este alocată doar radioamatorilor.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Brașov, 2018",
+   "html": {
+    "question": "Ce înseamnă 'statut primar' al unei benzi de frecvențe alocată serviciului de amator?",
+    "answers": [
+     "Radioamatorii pot transmite tot timpul în acea bandă, însă atunci când e liniște, și alte servicii pot transmite",
+     "Radioamatorii pot rejecta apeluri ale altor servicii",
+     "Radioamatorii sunt singurii care pot transmite în acea bandă",
+     "În cazul unor calamități, radioamatorii preiau controlul de trafic între celelalte servicii pe aceste benzi"
+    ],
+    "explanation": "TNABF definește: Statut primar al benzii înseamnă că acea bandă este alocată doar radioamatorilor."
+   }
+  }
+ ]
+}

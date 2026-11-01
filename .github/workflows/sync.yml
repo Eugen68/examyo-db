@@ -1,0 +1,46 @@
+name: Sincronizare cu upstream
+
+# Verifică săptămânal dacă YO6OWN a modificat bazele de întrebări în
+# 6oskarwN/Sim_exam_yo; dacă da, actualizează submodulul și regenerează datele.
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # luni, 04:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Actualizează submodulul la ultima versiune
+        run: git submodule update --remote upstream
+
+      - name: Regenerează datele
+        run: python3 tools/convert.py
+
+      - name: Commit dacă s-a schimbat ceva
+        run: |
+          git add -A upstream data images
+          if git diff --cached --quiet; then
+            echo "Nicio modificare."
+            exit 0
+          fi
+          rev=$(git -C upstream rev-parse --short HEAD)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Date regenerate din upstream $rev"
+          git push

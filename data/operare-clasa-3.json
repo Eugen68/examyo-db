@@ -1,0 +1,1983 @@
+{
+ "slug": "operare-clasa-3",
+ "source_file": "db_op3",
+ "category": "operare",
+ "classes": [
+  "III"
+ ],
+ "title": "Întrebări operare clasa III v.3.08",
+ "version": "3.08",
+ "curriculum": "prog_CEPT_Novice_op",
+ "declared_count": 67,
+ "count": 67,
+ "with_explanation": 66,
+ "questions": [
+  {
+   "id": "operare-clasa-3/0",
+   "number": 0,
+   "code": "01A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO2?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "albastru, zona marcată cu H",
+    "galben, zona marcată cu C",
+    "violet, zona marcată cu B",
+    "verde, zona marcată cu D"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), a)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO2?",
+    "answers": [
+     "albastru, zona marcată cu H",
+     "galben, zona marcată cu C",
+     "violet, zona marcată cu B",
+     "verde, zona marcată cu D"
+    ],
+    "explanation": "Art. 12, (2), a)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/1",
+   "number": 1,
+   "code": "02A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO3?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "roşu, zona marcată cu K",
+    "galben, zona marcată cu C",
+    "verde, zona marcată cu D",
+    "maro, zona marcată cu I"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), b)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO3?",
+    "answers": [
+     "roşu, zona marcată cu K",
+     "galben, zona marcată cu C",
+     "verde, zona marcată cu D",
+     "maro, zona marcată cu I"
+    ],
+    "explanation": "Art. 12, (2), b)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/2",
+   "number": 2,
+   "code": "03A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO4?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "galben, zona marcată cu C",
+    "albastru, zona marcată cu H",
+    "maro, zona marcată cu I",
+    "violet, zona marcată cu B"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), c)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO4?",
+    "answers": [
+     "galben, zona marcată cu C",
+     "albastru, zona marcată cu H",
+     "maro, zona marcată cu I",
+     "violet, zona marcată cu B"
+    ],
+    "explanation": "Art. 12, (2), c)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/3",
+   "number": 3,
+   "code": "04A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO5?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "galben, zona marcată cu C",
+    "albastru, zona marcată cu H",
+    "portocaliu, zona marcată cu A",
+    "maro, zona marcată cu I"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), d)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO5?",
+    "answers": [
+     "galben, zona marcată cu C",
+     "albastru, zona marcată cu H",
+     "portocaliu, zona marcată cu A",
+     "maro, zona marcată cu I"
+    ],
+    "explanation": "Art. 12, (2), d)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/4",
+   "number": 4,
+   "code": "05A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO6?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "portocaliu, zona marcată cu A",
+    "albastru, zona marcată cu H",
+    "verde, zona marcată cu D",
+    "maro, zona marcată cu I"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), e)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO6?",
+    "answers": [
+     "portocaliu, zona marcată cu A",
+     "albastru, zona marcată cu H",
+     "verde, zona marcată cu D",
+     "maro, zona marcată cu I"
+    ],
+    "explanation": "Art. 12, (2), e)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/5",
+   "number": 5,
+   "code": "06A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO7?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "violet, zona marcată cu B",
+    "albastru, zona marcată cu H",
+    "maro, zona marcată cu I",
+    "verde, zona marcată cu D"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), f)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO7?",
+    "answers": [
+     "violet, zona marcată cu B",
+     "albastru, zona marcată cu H",
+     "maro, zona marcată cu I",
+     "verde, zona marcată cu D"
+    ],
+    "explanation": "Art. 12, (2), f)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/6",
+   "number": 6,
+   "code": "07A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO8?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "albastru, zona marcată cu H",
+    "kaki, zona marcată cu E",
+    "verde, zona marcată cu D",
+    "violet, zona marcată cu B"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), g)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO8?",
+    "answers": [
+     "albastru, zona marcată cu H",
+     "kaki, zona marcată cu E",
+     "verde, zona marcată cu D",
+     "violet, zona marcată cu B"
+    ],
+    "explanation": "Art. 12, (2), g)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/7",
+   "number": 7,
+   "code": "08A414",
+   "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO9?",
+   "image": {
+    "file": "images/hartayo.jpg",
+    "width": 248
+   },
+   "answers": [
+    "verde, zona marcată cu D",
+    "albastru, zona marcată cu H",
+    "galben, zona marcată cu C",
+    "violet, zona marcată cu B"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Braşov, 2013",
+   "explanation": "Art. 12, (2), h)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cu ce culoare sunt colorate pe hartă judeţele ale căror radioamatori poartă un indicativ ce începe cu YO9?",
+    "answers": [
+     "verde, zona marcată cu D",
+     "albastru, zona marcată cu H",
+     "galben, zona marcată cu C",
+     "violet, zona marcată cu B"
+    ],
+    "explanation": "Art. 12, (2), h)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/8",
+   "number": 8,
+   "code": "01A411",
+   "question": "La chemarea ta, îţi răspund patru radioamatori: YO3AAC, LZ5JZ, HA5KXX, 3W1SSB. Cui răspunzi prima dată, în cazul în care vrei să lucrezi cu toţi?",
+   "image": null,
+   "answers": [
+    "staţiei 3W, fiind DX(Vietnam)",
+    "staţiei care se aude cel mai slab, fiindcă la o modificare de propagare, semnalul ei se poate pierde",
+    "staţiei YO, are prioritate",
+    "staţiei care a chemat cel mai insistent"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Braşov, 2005",
+   "explanation": "Un bun operator încearcă să lucreze toate staţiile: staţia mai slabă prima, fiindcă este QRP(putere f. mică la emisie, sub 5W în US) sau foarte îndepărtată. În cazul unei fluctuaţii de propagare, staţia slabă se pierde prima.\nDupă aceea staţia DX e mai apetisantă - asta depinde de operator, dacă are sau nu confirmată deja entitatea 3W\nO staţie care cheamă foarte, foarte insistent de obicei sfârşeşte prin a irita operatorul şi probabil va fi rejectată.\nStaţia YO - hai să fim şi noi patrioţi(ţine de ham-spirit), că şi alţii sunt! Nu trebuie să lăsăm staţiile YO să ne strige şi să nu răspundem.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "La chemarea ta, îţi răspund patru radioamatori: YO3AAC, LZ5JZ, HA5KXX, 3W1SSB. Cui răspunzi prima dată, în cazul în care vrei să lucrezi cu toţi?",
+    "answers": [
+     "staţiei 3W, fiind DX(Vietnam)",
+     "staţiei care se aude cel mai slab, fiindcă la o modificare de propagare, semnalul ei se poate pierde",
+     "staţiei YO, are prioritate",
+     "staţiei care a chemat cel mai insistent"
+    ],
+    "explanation": "Un bun operator încearcă să lucreze toate staţiile: staţia mai slabă prima, fiindcă este QRP(putere f. mică la emisie, sub 5W în US) sau foarte îndepărtată. În cazul unei fluctuaţii de propagare, staţia slabă se pierde prima.<br>După aceea staţia DX e mai apetisantă - asta depinde de operator, dacă are sau nu confirmată deja entitatea 3W<br>O staţie care cheamă foarte, foarte insistent de obicei sfârşeşte prin a irita operatorul şi probabil va fi rejectată.<br>Staţia YO - hai să fim şi noi patrioţi(ţine de ham-spirit), că şi alţii sunt! Nu trebuie să lăsăm staţiile YO să ne strige şi să nu răspundem."
+   }
+  },
+  {
+   "id": "operare-clasa-3/9",
+   "number": 9,
+   "code": "02A411",
+   "question": "Care din următoarele indicative este un indicativ românesc valid?",
+   "image": null,
+   "answers": [
+    "YO2ABC",
+    "Y70ABC",
+    "YB7ABC",
+    "YR-ABC"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Braşov, 2005",
+   "explanation": "Art. 12, (1) din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Care din următoarele indicative este un indicativ românesc valid?",
+    "answers": [
+     "YO2ABC",
+     "Y70ABC",
+     "YB7ABC",
+     "YR-ABC"
+    ],
+    "explanation": "Art. 12, (1) din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-3/10",
+   "number": 10,
+   "code": "09A414",
+   "question": "Care este prefixul desemnat pentru România, în traficul de radioamatori?",
+   "image": null,
+   "answers": [
+    "RO",
+    "YL",
+    "RR",
+    "YO,YP,YQ sau YR"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004(rev. 2006)",
+   "explanation": "Art. 12, (1) din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Care este prefixul desemnat pentru România, în traficul de radioamatori?",
+    "answers": [
+     "RO",
+     "YL",
+     "RR",
+     "YO,YP,YQ sau YR"
+    ],
+    "explanation": "Art. 12, (1) din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-3/11",
+   "number": 11,
+   "code": "01A413",
+   "question": "Din cadrul unui indicativ, ce semnificaţie are cifra de după prefix? (ex. yo6gzi)",
+   "image": null,
+   "answers": [
+    "luna în care a fost emis indicativul",
+    "reprezintă o zonă de mai multe judeţe(un district în regulamentele mai vechi)",
+    "reprezintă codul judeţului",
+    "este un cod DTMF"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004(rev. 2019)",
+   "explanation": null,
+   "explanation_image": null,
+   "explanation_author": null,
+   "html": {
+    "question": "Din cadrul unui indicativ, ce semnificaţie are cifra de după prefix? (ex. yo6gzi)",
+    "answers": [
+     "luna în care a fost emis indicativul",
+     "reprezintă o zonă de mai multe judeţe(un district în regulamentele mai vechi)",
+     "reprezintă codul judeţului",
+     "este un cod DTMF"
+    ],
+    "explanation": null
+   }
+  },
+  {
+   "id": "operare-clasa-3/12",
+   "number": 12,
+   "code": "01A412",
+   "question": "Staţiile de radioclub din România au prima literă a sufixului:",
+   "image": null,
+   "answers": [
+    "Y",
+    "C",
+    "K",
+    "R"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004 - rev.2006",
+   "explanation": "Art. 12, (1) din regulament\nAceastă regulă este valabilă şi pentru indicativele din ţările comuniste sau fost comuniste, iar această regulă nu este valabilă pentru restul ţărilor, unde numai consultarea callbook-ului ne poate lumina dacă e staţie de club sau individuală",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Staţiile de radioclub din România au prima literă a sufixului:",
+    "answers": [
+     "Y",
+     "C",
+     "K",
+     "R"
+    ],
+    "explanation": "Art. 12, (1) din regulament<br>Această regulă este valabilă şi pentru indicativele din ţările comuniste sau fost comuniste, iar această regulă nu este valabilă pentru restul ţărilor, unde numai consultarea callbook-ului ne poate lumina dacă e staţie de club sau individuală"
+   }
+  },
+  {
+   "id": "operare-clasa-3/13",
+   "number": 13,
+   "code": "10A414",
+   "question": "Ce zonă a ţării reprezintă YO2?",
+   "image": null,
+   "answers": [
+    "Arad, Caraş Severin, Hunedoara, Timiş",
+    "Mun. Bucureşti şi jud. Ilfov",
+    "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+    "Braşov, Covasna, Harghita, Mureş, Sibiu"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, 2004 - rev. Radau Mihai, 2007",
+   "explanation": "Art. 12, (2)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Ce zonă a ţării reprezintă YO2?",
+    "answers": [
+     "Arad, Caraş Severin, Hunedoara, Timiş",
+     "Mun. Bucureşti şi jud. Ilfov",
+     "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+     "Braşov, Covasna, Harghita, Mureş, Sibiu"
+    ],
+    "explanation": "Art. 12, (2)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/14",
+   "number": 14,
+   "code": "11A414",
+   "question": "Ce zonă a ţării reprezintă YO5?",
+   "image": null,
+   "answers": [
+    "Arad, Caraş Severin, Hunedoara, Timiş",
+    "Alba, Bihor, Bistriţa-Năsăud, Cluj, Maramureş, Satu Mare şi Sălaj",
+    "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+    "Braşov, Covasna, Harghita, Mureş, Sibiu"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Braşov, 2007",
+   "explanation": "Art. 12, (2)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Ce zonă a ţării reprezintă YO5?",
+    "answers": [
+     "Arad, Caraş Severin, Hunedoara, Timiş",
+     "Alba, Bihor, Bistriţa-Năsăud, Cluj, Maramureş, Satu Mare şi Sălaj",
+     "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+     "Braşov, Covasna, Harghita, Mureş, Sibiu"
+    ],
+    "explanation": "Art. 12, (2)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/15",
+   "number": 15,
+   "code": "12A414",
+   "question": "Ce zonă a ţării reprezintă YO6?",
+   "image": null,
+   "answers": [
+    "Arad, Caraş Severin, Hunedoara, Timiş",
+    "Mun. Bucureşti şi jud. Ilfov",
+    "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+    "Braşov, Covasna, Harghita, Mureş, Sibiu"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, 2004 - rev. Radau Mihai, 2007",
+   "explanation": "Art. 12, (2)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Ce zonă a ţării reprezintă YO6?",
+    "answers": [
+     "Arad, Caraş Severin, Hunedoara, Timiş",
+     "Mun. Bucureşti şi jud. Ilfov",
+     "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+     "Braşov, Covasna, Harghita, Mureş, Sibiu"
+    ],
+    "explanation": "Art. 12, (2)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/16",
+   "number": 16,
+   "code": "13A414",
+   "question": "Ce zonă a ţării reprezintă YO3?",
+   "image": null,
+   "answers": [
+    "Arad, Caraş Severin, Hunedoara, Timiş",
+    "Mun. Bucureşti şi judeţul Ilfov",
+    "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+    "Braşov, Covasna, Harghita, Mureş, Sibiu"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, 2004 - rev. Radau Mihai, 2007",
+   "explanation": "Art. 12, (2)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Ce zonă a ţării reprezintă YO3?",
+    "answers": [
+     "Arad, Caraş Severin, Hunedoara, Timiş",
+     "Mun. Bucureşti şi judeţul Ilfov",
+     "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+     "Braşov, Covasna, Harghita, Mureş, Sibiu"
+    ],
+    "explanation": "Art. 12, (2)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/17",
+   "number": 17,
+   "code": "14A414",
+   "question": "Ce zonă a ţării reprezintă YO4?",
+   "image": null,
+   "answers": [
+    "Arad, Caraş Severin, Hunedoara, Timiş",
+    "Mun. Bucureşti şi judeţul Ilfov",
+    "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+    "Braşov, Covasna, Harghita, Mureş, Sibiu"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, 2004 - rev. Radau Mihai, 2007",
+   "explanation": "Art. 12, (2)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Ce zonă a ţării reprezintă YO4?",
+    "answers": [
+     "Arad, Caraş Severin, Hunedoara, Timiş",
+     "Mun. Bucureşti şi judeţul Ilfov",
+     "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+     "Braşov, Covasna, Harghita, Mureş, Sibiu"
+    ],
+    "explanation": "Art. 12, (2)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/18",
+   "number": 18,
+   "code": "15A414",
+   "question": "Ce zonă a ţării reprezintă YO8?",
+   "image": null,
+   "answers": [
+    "Bacău, Botoşani, Iaşi, Neamţ, Suceava, Vaslui",
+    "Mun. Bucureşti şi judeţul Ilfov",
+    "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+    "Braşov, Covasna, Harghita, Mureş, Sibiu"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, 2004 - rev. Radau Mihai, 2007",
+   "explanation": "Art. 12, (2)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Ce zonă a ţării reprezintă YO8?",
+    "answers": [
+     "Bacău, Botoşani, Iaşi, Neamţ, Suceava, Vaslui",
+     "Mun. Bucureşti şi judeţul Ilfov",
+     "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+     "Braşov, Covasna, Harghita, Mureş, Sibiu"
+    ],
+    "explanation": "Art. 12, (2)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/19",
+   "number": 19,
+   "code": "16A414",
+   "question": "Ce zonă a ţării reprezintă YO9?",
+   "image": null,
+   "answers": [
+    "Buzău, Călăraşi, Dâmboviţa, Giurgiu, Ialomiţa, Prahova, Teleorman",
+    "Mun. Bucureşti",
+    "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+    "Braşov, Covasna, Harghita, Mureş, Sibiu"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, 2004 - rev. Radau Mihai, 2007",
+   "explanation": "Art. 12, (2)",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Ce zonă a ţării reprezintă YO9?",
+    "answers": [
+     "Buzău, Călăraşi, Dâmboviţa, Giurgiu, Ialomiţa, Prahova, Teleorman",
+     "Mun. Bucureşti",
+     "Brăila, Constanţa, Galaţi, Tulcea, Vrancea",
+     "Braşov, Covasna, Harghita, Mureş, Sibiu"
+    ],
+    "explanation": "Art. 12, (2)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/20",
+   "number": 20,
+   "code": "01A211",
+   "question": "Ce semnifică următorul cod Q: QRL?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "sunteţi ocupat?",
+    "să micşorez puterea?",
+    "cine mă cheamă?"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRL?",
+    "answers": [
+     "sunteţi interferat?",
+     "sunteţi ocupat?",
+     "să micşorez puterea?",
+     "cine mă cheamă?"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/21",
+   "number": 21,
+   "code": "01A213",
+   "question": "Ce semnifică următorul cod Q: QRZ?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "sunteţi ocupat?",
+    "să transmit mai lent?",
+    "cine mă cheamă?"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRZ?",
+    "answers": [
+     "sunteţi interferat?",
+     "sunteţi ocupat?",
+     "să transmit mai lent?",
+     "cine mă cheamă?"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/22",
+   "number": 22,
+   "code": "01A212",
+   "question": "Ce semnifică următorul cod Q: QRS?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "să micşorez puterea?",
+    "să transmit mai lent?",
+    "să încetez transmisia?"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Ca mnemonica: Q R 'Slower' - mai lent\nCodul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "owene, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRS?",
+    "answers": [
+     "sunteţi interferat?",
+     "să micşorez puterea?",
+     "să transmit mai lent?",
+     "să încetez transmisia?"
+    ],
+    "explanation": "Ca mnemonica: Q R 'Slower' - mai lent<br>Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/23",
+   "number": 23,
+   "code": "02A212",
+   "question": "Ce semnifică următorul cod Q: QRT?",
+   "image": null,
+   "answers": [
+    "sunteţi interferat?",
+    "să încetez transmisia?",
+    "să transmit mai lent?",
+    "cine mă cheamă?"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QRT?",
+    "answers": [
+     "sunteţi interferat?",
+     "să încetez transmisia?",
+     "să transmit mai lent?",
+     "cine mă cheamă?"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/24",
+   "number": 24,
+   "code": "02A213",
+   "question": "Ce semnifică următorul cod Q: QSB?",
+   "image": null,
+   "answers": [
+    "tăria semnalelor mele variază?",
+    "să încetez transmisia?",
+    "să trec pe altă frecvenţă?",
+    "confirm recepţia"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QSB?",
+    "answers": [
+     "tăria semnalelor mele variază?",
+     "să încetez transmisia?",
+     "să trec pe altă frecvenţă?",
+     "confirm recepţia"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/25",
+   "number": 25,
+   "code": "01A214",
+   "question": "Ce semnifică următorul cod Q: QSY?",
+   "image": null,
+   "answers": [
+    "tăria semnalelor mele variază?",
+    "să încetez transmisia?",
+    "să trec pe altă frecvenţă?",
+    "confirm recepţia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QSY?",
+    "answers": [
+     "tăria semnalelor mele variază?",
+     "să încetez transmisia?",
+     "să trec pe altă frecvenţă?",
+     "confirm recepţia"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/26",
+   "number": 26,
+   "code": "03A213",
+   "question": "Ce semnifică următorul cod Q: QSL?",
+   "image": null,
+   "answers": [
+    "tăria semnalelor mele variază?",
+    "să încetez transmisia?",
+    "să trec pe altă frecvenţă?",
+    "confirm recepţia"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Codul Q: [link] (http://examyo.scienceontheweb.net/x5_3_qcode.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică următorul cod Q: QSL?",
+    "answers": [
+     "tăria semnalelor mele variază?",
+     "să încetez transmisia?",
+     "să trec pe altă frecvenţă?",
+     "confirm recepţia"
+    ],
+    "explanation": "Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_3_qcode.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/27",
+   "number": 27,
+   "code": "01A314",
+   "question": "Ce este codul RST?",
+   "image": null,
+   "answers": [
+    "codul de prescurtări",
+    "cod pentru raportarea calităţii receptiei",
+    "cod pentru raportarea intermodulaţiilor",
+    "cod pentru raportarea puterii de emisie în telegrafie"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Readability - Strength - Tone\nVezi mai multe la Codul Q: [link] (http://examyo.scienceontheweb.net/x5_2_rst.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce este codul RST?",
+    "answers": [
+     "codul de prescurtări",
+     "cod pentru raportarea calităţii receptiei",
+     "cod pentru raportarea intermodulaţiilor",
+     "cod pentru raportarea puterii de emisie în telegrafie"
+    ],
+    "explanation": "Readability - Strength - Tone<br>Vezi mai multe la Codul Q: <a href=\"http://examyo.scienceontheweb.net/x5_2_rst.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/28",
+   "number": 28,
+   "code": "02A412",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/P?",
+   "image": null,
+   "answers": [
+    "yo6gzi este în Paraguay",
+    "yo6gzi este în Portugalia",
+    "yo6gzi este în portabil",
+    "yo6gzi este în Panama"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/P?",
+    "answers": [
+     "yo6gzi este în Paraguay",
+     "yo6gzi este în Portugalia",
+     "yo6gzi este în portabil",
+     "yo6gzi este în Panama"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-3/29",
+   "number": 29,
+   "code": "03A412",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/M?",
+   "image": null,
+   "answers": [
+    "yo6gzi este în Montreal",
+    "yo6gzi este mobil",
+    "yo6gzi este în Monaco",
+    "yo6gzi este în Mexic"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/M?",
+    "answers": [
+     "yo6gzi este în Montreal",
+     "yo6gzi este mobil",
+     "yo6gzi este în Monaco",
+     "yo6gzi este în Mexic"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-3/30",
+   "number": 30,
+   "code": "04A412",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/MM?",
+   "image": null,
+   "answers": [
+    "yo6gzi este mobil în Montreal",
+    "yo6gzi este mobil în Monaco",
+    "yo6gzi este mobil în Mexic",
+    "yo6gzi este maritim mobil"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/MM?",
+    "answers": [
+     "yo6gzi este mobil în Montreal",
+     "yo6gzi este mobil în Monaco",
+     "yo6gzi este mobil în Mexic",
+     "yo6gzi este maritim mobil"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-3/31",
+   "number": 31,
+   "code": "05A412",
+   "question": "Cum se interpretează următorul indicativ: YO6GZI/AM?",
+   "image": null,
+   "answers": [
+    "yo6gzi emite cu modulaţie de amplitudine (AM)",
+    "yo6gzi emite dintr-un vehicul aerian Aerian Mobil(AM)",
+    "yo6gzi emite din Mauriţius",
+    "yo6gzi este primul radioamator din localitate - Alpha-Mike"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO5OWN, Săcele, 2004",
+   "explanation": "Art.13 din regulament",
+   "explanation_image": null,
+   "explanation_author": "Regulamentul",
+   "html": {
+    "question": "Cum se interpretează următorul indicativ: YO6GZI/AM?",
+    "answers": [
+     "yo6gzi emite cu modulaţie de amplitudine (AM)",
+     "yo6gzi emite dintr-un vehicul aerian  Aerian Mobil(AM)",
+     "yo6gzi emite din Mauriţius",
+     "yo6gzi este primul radioamator din localitate - Alpha-Mike"
+    ],
+    "explanation": "Art.13 din regulament"
+   }
+  },
+  {
+   "id": "operare-clasa-3/32",
+   "number": 32,
+   "code": "17A414",
+   "question": "Ce ţară reprezintă prefixul F?",
+   "image": null,
+   "answers": [
+    "Farity",
+    "Franţa",
+    "Finlanda",
+    "Filipine"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul F?",
+    "answers": [
+     "Farity",
+     "Franţa",
+     "Finlanda",
+     "Filipine"
+    ],
+    "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)"
+   }
+  },
+  {
+   "id": "operare-clasa-3/33",
+   "number": 33,
+   "code": "18A414",
+   "question": "Ce ţară reprezintă prefixul OE?",
+   "image": null,
+   "answers": [
+    "Emiratele Arabe",
+    "Olanda",
+    "Austria",
+    "Italia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Mnemonica: Austria în germana este Österreich, şi se mai scrie şi Oesterreich. OE",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul OE?",
+    "answers": [
+     "Emiratele Arabe",
+     "Olanda",
+     "Austria",
+     "Italia"
+    ],
+    "explanation": "Mnemonica: Austria în germana este &Ouml;sterreich, şi se mai scrie şi Oesterreich. OE"
+   }
+  },
+  {
+   "id": "operare-clasa-3/34",
+   "number": 34,
+   "code": "19A414",
+   "question": "Ce ţară reprezintă prefixul G?",
+   "image": null,
+   "answers": [
+    "Germania",
+    "Grecia",
+    "Anglia",
+    "Italia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)\nMnemonica: Great Britain - G",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul G?",
+    "answers": [
+     "Germania",
+     "Grecia",
+     "Anglia",
+     "Italia"
+    ],
+    "explanation": "Prefix de o literă au doar ţările 'care au fondat radioamatorismul' adică acolo au activat primii radioamatori - USA(W), Franţa(F), Anglia(G)<br>Mnemonica: Great Britain - G"
+   }
+  },
+  {
+   "id": "operare-clasa-3/35",
+   "number": 35,
+   "code": "20A414",
+   "question": "Ce ţară reprezintă prefixul HA?",
+   "image": null,
+   "answers": [
+    "Germania",
+    "Grecia",
+    "Anglia",
+    "Ungaria"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul HA?",
+    "answers": [
+     "Germania",
+     "Grecia",
+     "Anglia",
+     "Ungaria"
+    ],
+    "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria"
+   }
+  },
+  {
+   "id": "operare-clasa-3/36",
+   "number": 36,
+   "code": "21A414",
+   "question": "Ce ţară reprezintă prefixul EA?",
+   "image": null,
+   "answers": [
+    "Germania",
+    "Spania",
+    "Anglia",
+    "Elveţia"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "ESP.",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul EA?",
+    "answers": [
+     "Germania",
+     "Spania",
+     "Anglia",
+     "Elveţia"
+    ],
+    "explanation": "ESP."
+   }
+  },
+  {
+   "id": "operare-clasa-3/37",
+   "number": 37,
+   "code": "22A414",
+   "question": "Ce ţară reprezintă prefixul LZ?",
+   "image": null,
+   "answers": [
+    "Grecia",
+    "Lagos",
+    "Bulgaria",
+    "Polonia"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO5OWN, Săcele, 2004",
+   "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce ţară reprezintă prefixul LZ?",
+    "answers": [
+     "Grecia",
+     "Lagos",
+     "Bulgaria",
+     "Polonia"
+    ],
+    "explanation": "Ai greşit? Înseamnă că nu ai făcut nici măcar recepţie destulă, măcar codul ţărilor vecine trebuie ştiut. ER - Moldova, LZ - Bulgaria, HA - Ungaria"
+   }
+  },
+  {
+   "id": "operare-clasa-3/38",
+   "number": 38,
+   "code": "01A316",
+   "question": "Ce semnifică codul 73?",
+   "image": null,
+   "answers": [
+    "salutări",
+    "sărutări",
+    "perturbaţii atmosferice",
+    "scuze"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Vezi mai multe la prescurtări uzuale: [link] (http://examyo.scienceontheweb.net/x5_7_presc.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică codul 73?",
+    "answers": [
+     "salutări",
+     "sărutări",
+     "perturbaţii atmosferice",
+     "scuze"
+    ],
+    "explanation": "Vezi mai multe la prescurtări uzuale: <a href=\"http://examyo.scienceontheweb.net/x5_7_presc.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/39",
+   "number": 39,
+   "code": "02A316",
+   "question": "Ce semnifică codul 88?",
+   "image": null,
+   "answers": [
+    "salutări",
+    "sărutări",
+    "perturbaţii atmosferice",
+    "scuze"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Vezi mai multe la prescurtări uzuale: [link] (http://examyo.scienceontheweb.net/x5_7_presc.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică codul 88?",
+    "answers": [
+     "salutări",
+     "sărutări",
+     "perturbaţii atmosferice",
+     "scuze"
+    ],
+    "explanation": "Vezi mai multe la prescurtări uzuale: <a href=\"http://examyo.scienceontheweb.net/x5_7_presc.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/40",
+   "number": 40,
+   "code": "03A316",
+   "question": "Ce semnifică codul yl?",
+   "image": null,
+   "answers": [
+    "young lady - radioamatoare",
+    "sărutări",
+    "perturbaţii atmosferice",
+    "scuze"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6GZI, Săcele, 2004",
+   "explanation": "Vezi mai multe la prescurtări uzuale: [link] (http://examyo.scienceontheweb.net/x5_7_presc.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Ce semnifică codul yl?",
+    "answers": [
+     "young lady - radioamatoare",
+     "sărutări",
+     "perturbaţii atmosferice",
+     "scuze"
+    ],
+    "explanation": "Vezi mai multe la prescurtări uzuale: <a href=\"http://examyo.scienceontheweb.net/x5_7_presc.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/41",
+   "number": 41,
+   "code": "01A113",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'L'?",
+   "image": null,
+   "answers": [
+    "London",
+    "Luis",
+    "Longitude",
+    "Lima"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'L'?",
+    "answers": [
+     "London",
+     "Luis",
+     "Longitude",
+     "Lima"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/42",
+   "number": 42,
+   "code": "02A113",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'M'?",
+   "image": null,
+   "answers": [
+    "Mike",
+    "Mexico",
+    "Milano",
+    "Marco"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'M'?",
+    "answers": [
+     "Mike",
+     "Mexico",
+     "Milano",
+     "Marco"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/43",
+   "number": 43,
+   "code": "03A113",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'N'?",
+   "image": null,
+   "answers": [
+    "Norway",
+    "November",
+    "Nancy",
+    "Null"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'N'?",
+    "answers": [
+     "Norway",
+     "November",
+     "Nancy",
+     "Null"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/44",
+   "number": 44,
+   "code": "04A113",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'O'?",
+   "image": null,
+   "answers": [
+    "Ontario",
+    "Oregon",
+    "Olanda",
+    "Oscar"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'O'?",
+    "answers": [
+     "Ontario",
+     "Oregon",
+     "Olanda",
+     "Oscar"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/45",
+   "number": 45,
+   "code": "01A114",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'P'?",
+   "image": null,
+   "answers": [
+    "Popeye",
+    "Pakistan",
+    "Pamela",
+    "Papa"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'P'?",
+    "answers": [
+     "Popeye",
+     "Pakistan",
+     "Pamela",
+     "Papa"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/46",
+   "number": 46,
+   "code": "02A114",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Q'?",
+   "image": null,
+   "answers": [
+    "Quebeq",
+    "Queen",
+    "Queensland",
+    "QSL"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Q'?",
+    "answers": [
+     "Quebeq",
+     "Queen",
+     "Queensland",
+     "QSL"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/47",
+   "number": 47,
+   "code": "03A114",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'R'?",
+   "image": null,
+   "answers": [
+    "Radio",
+    "Romeo",
+    "Radius",
+    "Rusia"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'R'?",
+    "answers": [
+     "Radio",
+     "Romeo",
+     "Radius",
+     "Rusia"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/48",
+   "number": 48,
+   "code": "04A114",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'S'?",
+   "image": null,
+   "answers": [
+    "Sugar",
+    "Santiago",
+    "Sierra",
+    "Spain"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'S'?",
+    "answers": [
+     "Sugar",
+     "Santiago",
+     "Sierra",
+     "Spain"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/49",
+   "number": 49,
+   "code": "05A114",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'T'?",
+   "image": null,
+   "answers": [
+    "Toto",
+    "Turkey",
+    "Tango",
+    "Terra"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'T'?",
+    "answers": [
+     "Toto",
+     "Turkey",
+     "Tango",
+     "Terra"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/50",
+   "number": 50,
+   "code": "01A115",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'U'?",
+   "image": null,
+   "answers": [
+    "Utah",
+    "Ubul",
+    "United",
+    "Uniform"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'U'?",
+    "answers": [
+     "Utah",
+     "Ubul",
+     "United",
+     "Uniform"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/51",
+   "number": 51,
+   "code": "02A115",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'V'?",
+   "image": null,
+   "answers": [
+    "Victor",
+    "Victoria",
+    "Volt",
+    "Varsovia"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'V'?",
+    "answers": [
+     "Victor",
+     "Victoria",
+     "Volt",
+     "Varsovia"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/52",
+   "number": 52,
+   "code": "03A115",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'W'?",
+   "image": null,
+   "answers": [
+    "double V",
+    "Whiskey",
+    "Washington",
+    "double Victoria"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'W'?",
+    "answers": [
+     "double V",
+     "Whiskey",
+     "Washington",
+     "double Victoria"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/53",
+   "number": 53,
+   "code": "04A115",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'X'?",
+   "image": null,
+   "answers": [
+    "Xilophone",
+    "X-ray",
+    "Cross",
+    "Xenon"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'X'?",
+    "answers": [
+     "Xilophone",
+     "X-ray",
+     "Cross",
+     "Xenon"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/54",
+   "number": 54,
+   "code": "05A115",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Y'?",
+   "image": null,
+   "answers": [
+    "Yoko",
+    "Yokohama",
+    "Yankee",
+    "Yahoo"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Y'?",
+    "answers": [
+     "Yoko",
+     "Yokohama",
+     "Yankee",
+     "Yahoo"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/55",
+   "number": 55,
+   "code": "06A115",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Z'?",
+   "image": null,
+   "answers": [
+    "Zanzibar",
+    "Zero",
+    "Zebra",
+    "Zulu"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'Z'?",
+    "answers": [
+     "Zanzibar",
+     "Zero",
+     "Zebra",
+     "Zulu"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/56",
+   "number": 56,
+   "code": "01A111",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'A'?",
+   "image": null,
+   "answers": [
+    "Alpha",
+    "America",
+    "Atlantic",
+    "Africa"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'A'?",
+    "answers": [
+     "Alpha",
+     "America",
+     "Atlantic",
+     "Africa"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/57",
+   "number": 57,
+   "code": "02A111",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'B'?",
+   "image": null,
+   "answers": [
+    "Brasil",
+    "Bravo",
+    "Bogota",
+    "Berlin"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'B'?",
+    "answers": [
+     "Brasil",
+     "Bravo",
+     "Bogota",
+     "Berlin"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/58",
+   "number": 58,
+   "code": "03A111",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'C'?",
+   "image": null,
+   "answers": [
+    "Colorado",
+    "Colombo",
+    "Charlie",
+    "Cuba"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'C'?",
+    "answers": [
+     "Colorado",
+     "Colombo",
+     "Charlie",
+     "Cuba"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/59",
+   "number": 59,
+   "code": "04A111",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'D'?",
+   "image": null,
+   "answers": [
+    "Dog",
+    "Darwin",
+    "Delaware",
+    "Delta"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'D'?",
+    "answers": [
+     "Dog",
+     "Darwin",
+     "Delaware",
+     "Delta"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/60",
+   "number": 60,
+   "code": "05A111",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'E'?",
+   "image": null,
+   "answers": [
+    "Echo",
+    "Europa",
+    "Ecuator",
+    "Ecuador"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'E'?",
+    "answers": [
+     "Echo",
+     "Europa",
+     "Ecuator",
+     "Ecuador"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/61",
+   "number": 61,
+   "code": "01A112",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'F'?",
+   "image": null,
+   "answers": [
+    "Fox",
+    "Foxtrot",
+    "Florida",
+    "Faraday"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'F'?",
+    "answers": [
+     "Fox",
+     "Foxtrot",
+     "Florida",
+     "Faraday"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/62",
+   "number": 62,
+   "code": "02A112",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'G'?",
+   "image": null,
+   "answers": [
+    "Germany",
+    "Golf",
+    "Guatemala",
+    "Gemini"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'G'?",
+    "answers": [
+     "Germany",
+     "Golf",
+     "Guatemala",
+     "Gemini"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/63",
+   "number": 63,
+   "code": "03A112",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'H'?",
+   "image": null,
+   "answers": [
+    "Honolulu",
+    "Honduras",
+    "Hungary",
+    "Hotel"
+   ],
+   "correct": "d",
+   "correct_index": 3,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'H'?",
+    "answers": [
+     "Honolulu",
+     "Honduras",
+     "Hungary",
+     "Hotel"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/64",
+   "number": 64,
+   "code": "04A112",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'I'?",
+   "image": null,
+   "answers": [
+    "India",
+    "Italy",
+    "Image",
+    "Iridium"
+   ],
+   "correct": "a",
+   "correct_index": 0,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'I'?",
+    "answers": [
+     "India",
+     "Italy",
+     "Image",
+     "Iridium"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/65",
+   "number": 65,
+   "code": "05A112",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'J'?",
+   "image": null,
+   "answers": [
+    "Japan",
+    "Juliett",
+    "John",
+    "Jim"
+   ],
+   "correct": "b",
+   "correct_index": 1,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'J'?",
+    "answers": [
+     "Japan",
+     "Juliett",
+     "John",
+     "Jim"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  },
+  {
+   "id": "operare-clasa-3/66",
+   "number": 66,
+   "code": "05A113",
+   "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'K'?",
+   "image": null,
+   "answers": [
+    "Kenya",
+    "Kilowatt",
+    "Kilo",
+    "Key"
+   ],
+   "correct": "c",
+   "correct_index": 2,
+   "contributor": "YO6OWN, Săcele, 2005(rev.2007)",
+   "explanation": "Tabelul, [link] (http://examyo.scienceontheweb.net/x5_1_phonetic.html)",
+   "explanation_image": null,
+   "explanation_author": "YO6OWN, Braşov, 2007",
+   "html": {
+    "question": "Cum se pronunţă în alfabetul fonetic internaţional, litera 'K'?",
+    "answers": [
+     "Kenya",
+     "Kilowatt",
+     "Kilo",
+     "Key"
+    ],
+    "explanation": "Tabelul, <a href=\"http://examyo.scienceontheweb.net/x5_1_phonetic.html\" target=\"kpage\">[link]</a>"
+   }
+  }
+ ]
+}
